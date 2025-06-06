@@ -1,0 +1,266 @@
+[
+  {
+    "subject": "玛丽·居里",
+    "predicate": "出生于",
+    "object": "1867年",
+    "chunk": 1
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "是",
+    "object": "波兰人",
+    "chunk": 1
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "是",
+    "object": "法国人",
+    "chunk": 1
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "职业是",
+    "object": "物理学家",
+    "chunk": 1
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "职业是",
+    "object": "化学家",
+    "chunk": 1
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "研究",
+    "object": "放射性",
+    "chunk": 1
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "获得",
+    "object": "诺贝尔奖",
+    "chunk": 1
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "是",
+    "object": "第一位女教授",
+    "chunk": 1
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "是",
+    "object": "第一位诺贝尔奖得主",
+    "chunk": 1
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "是",
+    "object": "第一位获得诺贝尔奖的女性",
+    "chunk": 2
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "是",
+    "object": "第一位两次获得诺贝尔奖的人",
+    "chunk": 2
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "是",
+    "object": "玛丽·居里",
+    "chunk": 2
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "共同获得",
+    "object": "诺贝尔奖",
+    "chunk": 3
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与",
+    "object": "玛丽·居里",
+    "chunk": 3
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "成为",
+    "object": "首对获得诺贝尔奖的夫妇",
+    "chunk": 3
+  },
+  {
+    "subject": "居里家族",
+    "predicate": "获得",
+    "object": "诺贝尔奖",
+    "chunk": 3
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "成为",
+    "object": "第一位女教授",
+    "chunk": 4
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "工作于",
+    "object": "巴黎大学",
+    "chunk": 4
+  },
+  {
+    "subject": "玛丽·居里",
+    "predicate": "属于",
+    "object": "居里家族",
+    "chunk": 4
+  },
+  {
+    "subject": "居里家族",
+    "predicate": "拥有",
+    "object": "诺贝尔奖",
+    "chunk": 4
+  },
+  {
+    "subject": "第一位获得诺贝尔奖的女性",
+    "predicate": "属于",
+    "object": "诺贝尔奖",
+    "inferred": true
+  },
+  {
+    "subject": "第一位两次获得诺贝尔奖的人",
+    "predicate": "属于",
+    "object": "诺贝尔奖",
+    "inferred": true
+  },
+  {
+    "subject": "第一位诺贝尔奖得主",
+    "predicate": "属于",
+    "object": "诺贝尔奖",
+    "inferred": true
+  },
+  {
+    "subject": "诺贝尔奖",
+    "predicate": "包含",
+    "object": "第一位获得诺贝尔奖的女性",
+    "inferred": true
+  },
+  {
+    "subject": "诺贝尔奖",
+    "predicate": "包含",
+    "object": "第一位两次获得诺贝尔奖的人",
+    "inferred": true
+  },
+  {
+    "subject": "诺贝尔奖",
+    "predicate": "包含",
+    "object": "第一位诺贝尔奖得主",
+    "inferred": true
+  },
+  {
+    "subject": "诺贝尔奖",
+    "predicate": "包含",
+    "object": "首对获得诺贝尔奖的夫妇",
+    "inferred": true
+  },
+  {
+    "subject": "首对获得诺贝尔奖的夫妇",
+    "predicate": "属于",
+    "object": "诺贝尔奖",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "第一位获得诺贝尔奖的女性",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "化学家",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "放射性",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "第一位两次获得诺贝尔奖的人",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "1867年",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "法国人",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "巴黎大学",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "物理学家",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "第一位诺贝尔奖得主",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "波兰人",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "第一位女教授",
+    "inferred": true
+  },
+  {
+    "subject": "皮埃尔·居里",
+    "predicate": "与 via 玛丽·居里",
+    "object": "居里家族",
+    "inferred": true
+  },
+  {
+    "subject": "第一位获得诺贝尔奖的女性",
+    "predicate": "is type of",
+    "object": "诺贝尔奖",
+    "inferred": true
+  },
+  {
+    "subject": "第一位两次获得诺贝尔奖的人",
+    "predicate": "is type of",
+    "object": "诺贝尔奖",
+    "inferred": true
+  },
+  {
+    "subject": "第一位诺贝尔奖得主",
+    "predicate": "is type of",
+    "object": "诺贝尔奖",
+    "inferred": true
+  },
+  {
+    "subject": "首对获得诺贝尔奖的夫妇",
+    "predicate": "is type of",
+    "object": "诺贝尔奖",
+    "inferred": true
+  }
+]
