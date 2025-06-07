@@ -1,0 +1,4880 @@
+[
+  {
+    "subject": "城市发展",
+    "predicate": "取得",
+    "object": "显著成效",
+    "chunk": 1
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "通过",
+    "object": "科学规划",
+    "chunk": 1
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "通过",
+    "object": "精细管理",
+    "chunk": 1
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "通过",
+    "object": "持续创新",
+    "chunk": 1
+  },
+  {
+    "subject": "城市面貌",
+    "predicate": "焕然一新",
+    "object": "",
+    "chunk": 1
+  },
+  {
+    "subject": "居民生活质量",
+    "predicate": "显著提升",
+    "object": "",
+    "chunk": 1
+  },
+  {
+    "subject": "城市基础设施建设",
+    "predicate": "包括",
+    "object": "交通设施完善",
+    "chunk": 1
+  },
+  {
+    "subject": "交通设施",
+    "predicate": "加大",
+    "object": "投资力度",
+    "chunk": 1
+  },
+  {
+    "subject": "交通设施",
+    "predicate": "完成",
+    "object": "主干道拓宽",
+    "chunk": 1
+  },
+  {
+    "subject": "交通设施",
+    "predicate": "完成",
+    "object": "主干道改造",
+    "chunk": 1
+  },
+  {
+    "subject": "交通设施",
+    "predicate": "缓解",
+    "object": "交通问题",
+    "chunk": 1
+  },
+  {
+    "subject": "交通设施",
+    "predicate": "提高",
+    "object": "城市交通",
+    "chunk": 2
+  },
+  {
+    "subject": "改造工程",
+    "predicate": "缓解",
+    "object": "交通问题",
+    "chunk": 2
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "交通设施",
+    "chunk": 2
+  },
+  {
+    "subject": "公众",
+    "predicate": "增加",
+    "object": "公交车数量",
+    "chunk": 2
+  },
+  {
+    "subject": "公众",
+    "predicate": "增加",
+    "object": "公交线路",
+    "chunk": 2
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入",
+    "object": "新能源",
+    "chunk": 2
+  },
+  {
+    "subject": "新能源",
+    "predicate": "减少",
+    "object": "碳排放",
+    "chunk": 2
+  },
+  {
+    "subject": "公众",
+    "predicate": "启动",
+    "object": "地铁线路",
+    "chunk": 2
+  },
+  {
+    "subject": "地铁线路",
+    "predicate": "方便",
+    "object": "市民出行",
+    "chunk": 2
+  },
+  {
+    "subject": "公众",
+    "predicate": "新建",
+    "object": "交通设施",
+    "chunk": 3
+  },
+  {
+    "subject": "交通设施",
+    "predicate": "提供",
+    "object": "交通问题",
+    "chunk": 2
+  },
+  {
+    "subject": "公众",
+    "predicate": "注重",
+    "object": "慢行交通系统建设",
+    "chunk": 3
+  },
+  {
+    "subject": "交通设施",
+    "predicate": "提供",
+    "object": "城市交通",
+    "chunk": 3
+  },
+  {
+    "subject": "公众",
+    "predicate": "进行",
+    "object": "城市基础设施",
+    "chunk": 3
+  },
+  {
+    "subject": "公众",
+    "predicate": "进行",
+    "object": "城市供水系统检查",
+    "chunk": 3
+  },
+  {
+    "subject": "公众",
+    "predicate": "更换",
+    "object": "老旧管道",
+    "chunk": 3
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "供水水质",
+    "chunk": 3
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "供水稳定性",
+    "chunk": 3
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "城市基础设施",
+    "chunk": 3
+  },
+  {
+    "subject": "城市基础设施",
+    "predicate": "应对",
+    "object": "新能源",
+    "chunk": 3
+  },
+  {
+    "subject": "城市基础设施",
+    "predicate": "进行",
+    "object": "大规模改造和升级",
+    "chunk": 4
+  },
+  {
+    "subject": "城市基础设施",
+    "predicate": "提高",
+    "object": "供电能力",
+    "chunk": 4
+  },
+  {
+    "subject": "城市基础设施",
+    "predicate": "提高",
+    "object": "可靠性",
+    "chunk": 4
+  },
+  {
+    "subject": "智能技术",
+    "predicate": "推广",
+    "object": "电力资源优化配置",
+    "chunk": 4
+  },
+  {
+    "subject": "智能技术",
+    "predicate": "推广",
+    "object": "高效利用",
+    "chunk": 4
+  },
+  {
+    "subject": "环保措施",
+    "predicate": "建设",
+    "object": "提高污水处理能力",
+    "chunk": 4
+  },
+  {
+    "subject": "环保措施",
+    "predicate": "建设",
+    "object": "提高出水水质标准",
+    "chunk": 4
+  },
+  {
+    "subject": "城市基础设施",
+    "predicate": "加强",
+    "object": "建设和维护",
+    "chunk": 4
+  },
+  {
+    "subject": "环保措施",
+    "predicate": "推进",
+    "object": "垃圾处理",
+    "chunk": 4
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "城市基础设施",
+    "chunk": 5
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "垃圾分类收集站",
+    "chunk": 5
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "垃圾焚烧发电厂",
+    "chunk": 5
+  },
+  {
+    "subject": "环保措施",
+    "predicate": "推进",
+    "object": "资源化利用",
+    "chunk": 5
+  },
+  {
+    "subject": "科学分类",
+    "predicate": "解决",
+    "object": "城市垃圾问题",
+    "chunk": 5
+  },
+  {
+    "subject": "高效处理",
+    "predicate": "解决",
+    "object": "城市垃圾问题",
+    "chunk": 5
+  },
+  {
+    "subject": "公众",
+    "predicate": "结合",
+    "object": "城市发展",
+    "chunk": 20
+  },
+  {
+    "subject": "公众",
+    "predicate": "结合",
+    "object": "未来趋势",
+    "chunk": 5
+  },
+  {
+    "subject": "公众",
+    "predicate": "修编",
+    "object": "专项规划",
+    "chunk": 5
+  },
+  {
+    "subject": "公众",
+    "predicate": "完善",
+    "object": "专项规划",
+    "chunk": 5
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重",
+    "object": "环保措施",
+    "chunk": 6
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重",
+    "object": "人文关怀",
+    "chunk": 6
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重",
+    "object": "城市发展",
+    "chunk": 6
+  },
+  {
+    "subject": "公众",
+    "predicate": "编制",
+    "object": "专项规划",
+    "chunk": 6
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "包括",
+    "object": "交通规划",
+    "chunk": 6
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "包括",
+    "object": "绿地系统规划",
+    "chunk": 6
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "包括",
+    "object": "历史文化名城保护规划",
+    "chunk": 6
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "支撑",
+    "object": "城市建设",
+    "chunk": 6
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入",
+    "object": "数字化管理",
+    "chunk": 6
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "实现",
+    "object": "智能技术",
+    "chunk": 7
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "用于",
+    "object": "发现问题",
+    "chunk": 7
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "用于",
+    "object": "处理问题",
+    "chunk": 7
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "提高",
+    "object": "管理效率",
+    "chunk": 7
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "提高",
+    "object": "管理质量",
+    "chunk": 7
+  },
+  {
+    "subject": "城市",
+    "predicate": "划分为",
+    "object": "数字化管理",
+    "chunk": 7
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "由",
+    "object": "管理人员负责",
+    "chunk": 7
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "实现",
+    "object": "全面覆盖",
+    "chunk": 7
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "实现",
+    "object": "精细化管理",
+    "chunk": 7
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与",
+    "object": "城市规划",
+    "chunk": 7
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与",
+    "object": "城市管理",
+    "chunk": 7
+  },
+  {
+    "subject": "问卷调查",
+    "predicate": "用于",
+    "object": "公众参与",
+    "chunk": 7
+  },
+  {
+    "subject": "公众",
+    "predicate": "注重",
+    "object": "公众参与",
+    "chunk": 8
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及",
+    "object": "城市规划",
+    "chunk": 8
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及",
+    "object": "城市管理",
+    "chunk": 8
+  },
+  {
+    "subject": "公众",
+    "predicate": "听取",
+    "object": "公众参与",
+    "chunk": 8
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "提供",
+    "object": "参考",
+    "chunk": 8
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "提供",
+    "object": "改进方向",
+    "chunk": 8
+  },
+  {
+    "subject": "公众",
+    "predicate": "进行",
+    "object": "历史建筑普查",
+    "chunk": 8
+  },
+  {
+    "subject": "公众",
+    "predicate": "登记",
+    "object": "历史建筑",
+    "chunk": 8
+  },
+  {
+    "subject": "公众",
+    "predicate": "制定",
+    "object": "保护措施",
+    "chunk": 8
+  },
+  {
+    "subject": "修缮",
+    "predicate": "保护",
+    "object": "历史建筑",
+    "chunk": 8
+  },
+  {
+    "subject": "历史建筑",
+    "predicate": "得到",
+    "object": "传统文化",
+    "chunk": 9
+  },
+  {
+    "subject": "历史建筑",
+    "predicate": "得到",
+    "object": "利用",
+    "chunk": 9
+  },
+  {
+    "subject": "公众",
+    "predicate": "挖掘",
+    "object": "文化遗产",
+    "chunk": 8
+  },
+  {
+    "subject": "历史建筑",
+    "predicate": "得到",
+    "object": "保护措施",
+    "chunk": 9
+  },
+  {
+    "subject": "历史建筑",
+    "predicate": "得到",
+    "object": "修缮",
+    "chunk": 9
+  },
+  {
+    "subject": "公众",
+    "predicate": "挖掘",
+    "object": "城市文化软实力",
+    "chunk": 9
+  },
+  {
+    "subject": "公众",
+    "predicate": "举办",
+    "object": "展览",
+    "chunk": 9
+  },
+  {
+    "subject": "公众",
+    "predicate": "举办",
+    "object": "演出",
+    "chunk": 9
+  },
+  {
+    "subject": "公众",
+    "predicate": "展示",
+    "object": "城市环境",
+    "chunk": 9
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "历史建筑",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "加大",
+    "object": "学校建设投入",
+    "chunk": 9
+  },
+  {
+    "subject": "公众",
+    "predicate": "新建",
+    "object": "学校",
+    "chunk": 9
+  },
+  {
+    "subject": "公众",
+    "predicate": "改扩建",
+    "object": "学校",
+    "chunk": 9
+  },
+  {
+    "subject": "学校",
+    "predicate": "缓解",
+    "object": "上学难问题",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "投入",
+    "object": "教育设施",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "新建",
+    "object": "学校",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建",
+    "object": "学校",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "注重",
+    "object": "教育资源配置",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "优化",
+    "object": "学校布局",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "提高",
+    "object": "教师待遇",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "促进",
+    "object": "教育公平",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "加强",
+    "object": "职业教育",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "加强",
+    "object": "继续教育",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "提高",
+    "object": "市民综合素质",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "提高",
+    "object": "就业能力",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "建设",
+    "object": "医疗服务",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "提高",
+    "object": "医疗服务",
+    "chunk": 10
+  },
+  {
+    "subject": "政府",
+    "predicate": "提高",
+    "object": "医疗覆盖面",
+    "chunk": 10
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "医疗服务",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "医疗服务",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "基层医疗卫生机构建设",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "提供",
+    "object": "便捷医疗服务",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "提供",
+    "object": "高效医疗服务",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "公共卫生体系建设",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "完善",
+    "object": "疾病预防控制机制",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "完善",
+    "object": "应急救治机制",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "健康教育",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "推广",
+    "object": "健康生活方式",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "市民健康意识",
+    "chunk": 11
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "市民自我保健能力",
+    "chunk": 11
+  },
+  {
+    "subject": "环保措施",
+    "predicate": "提高",
+    "object": "市民的健康意识",
+    "chunk": 12
+  },
+  {
+    "subject": "环保措施",
+    "predicate": "提高",
+    "object": "市民的自我保健能力",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "多个图书馆",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "多个博物馆",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "多个文化馆",
+    "chunk": 12
+  },
+  {
+    "subject": "文化设施",
+    "predicate": "提供",
+    "object": "丰富的精神文化生活",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "城市环境",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "注重",
+    "object": "体育设施建设",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "新建",
+    "object": "体育设施",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "改扩建",
+    "object": "体育设施",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "新建",
+    "object": "健身设施",
+    "chunk": 12
+  },
+  {
+    "subject": "公众",
+    "predicate": "改扩建",
+    "object": "健身设施",
+    "chunk": 12
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "提供",
+    "object": "便捷的体育锻炼场所",
+    "chunk": 12
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "提供",
+    "object": "多样的体育锻炼场所",
+    "chunk": 12
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建",
+    "object": "体育设施",
+    "chunk": 13
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建",
+    "object": "健身设施",
+    "chunk": 13
+  },
+  {
+    "subject": "健身设施",
+    "predicate": "提供",
+    "object": "体育设施",
+    "chunk": 13
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务",
+    "object": "公众",
+    "chunk": 13
+  },
+  {
+    "subject": "政府",
+    "predicate": "新建",
+    "object": "休闲娱乐",
+    "chunk": 13
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建",
+    "object": "休闲娱乐",
+    "chunk": 13
+  },
+  {
+    "subject": "政府",
+    "predicate": "新建",
+    "object": "城市环境",
+    "chunk": 13
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建",
+    "object": "城市环境",
+    "chunk": 13
+  },
+  {
+    "subject": "城市环境",
+    "predicate": "提供",
+    "object": "休闲娱乐",
+    "chunk": 13
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务",
+    "object": "公众",
+    "chunk": 13
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "改善",
+    "object": "城市环境",
+    "chunk": 13
+  },
+  {
+    "subject": "政府",
+    "predicate": "种植",
+    "object": "行道树",
+    "chunk": 13
+  },
+  {
+    "subject": "政府",
+    "predicate": "建设",
+    "object": "绿化带",
+    "chunk": 13
+  },
+  {
+    "subject": "道路绿化工作",
+    "predicate": "提高",
+    "object": "城市道路绿化覆盖率",
+    "chunk": 14
+  },
+  {
+    "subject": "城市环境",
+    "predicate": "美化",
+    "object": "城市景观",
+    "chunk": 14
+  },
+  {
+    "subject": "城市环境",
+    "predicate": "净化",
+    "object": "空气",
+    "chunk": 14
+  },
+  {
+    "subject": "城市环境",
+    "predicate": "降低",
+    "object": "噪音",
+    "chunk": 14
+  },
+  {
+    "subject": "工业污染",
+    "predicate": "加强",
+    "object": "监管力度",
+    "chunk": 14
+  },
+  {
+    "subject": "工业污染",
+    "predicate": "督促",
+    "object": "企业安装污染治理设施",
+    "chunk": 14
+  },
+  {
+    "subject": "执法检查",
+    "predicate": "减少",
+    "object": "工业污染",
+    "chunk": 15
+  },
+  {
+    "subject": "行政处罚",
+    "predicate": "减少",
+    "object": "工业污染",
+    "chunk": 15
+  },
+  {
+    "subject": "公众",
+    "predicate": "推广",
+    "object": "新能源汽车",
+    "chunk": 15
+  },
+  {
+    "subject": "公众",
+    "predicate": "推广",
+    "object": "清洁能源汽车",
+    "chunk": 15
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "工业污染",
+    "chunk": 15
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "机动车尾气检测",
+    "chunk": 15
+  },
+  {
+    "subject": "限制高排放车辆",
+    "predicate": "降低",
+    "object": "工业污染",
+    "chunk": 15
+  },
+  {
+    "subject": "工业污染",
+    "predicate": "影响",
+    "object": "空气质量",
+    "chunk": 15
+  },
+  {
+    "subject": "公众",
+    "predicate": "整治",
+    "object": "河道管理",
+    "chunk": 16
+  },
+  {
+    "subject": "公众",
+    "predicate": "修复",
+    "object": "河道管理",
+    "chunk": 16
+  },
+  {
+    "subject": "公众",
+    "predicate": "清理",
+    "object": "河道管理",
+    "chunk": 16
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "河道管理",
+    "chunk": 16
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "改善",
+    "object": "河道水质",
+    "chunk": 16
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "改善",
+    "object": "生态环境",
+    "chunk": 16
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "提高",
+    "object": "防洪排涝能力",
+    "chunk": 16
+  },
+  {
+    "subject": "公众",
+    "predicate": "注重",
+    "object": "水资源管理",
+    "chunk": 16
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "雨水花园",
+    "chunk": 16
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "透水铺装",
+    "chunk": 16
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "提高",
+    "object": "雨水资源利用",
+    "chunk": 16
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "减少",
+    "object": "雨水径流压力",
+    "chunk": 16
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "促进",
+    "object": "水资源管理",
+    "chunk": 16
+  },
+  {
+    "subject": "城市雨水径流",
+    "predicate": "减少",
+    "object": "排水系统压力",
+    "chunk": 17
+  },
+  {
+    "subject": "城市雨水径流",
+    "predicate": "促进",
+    "object": "水资源管理",
+    "chunk": 17
+  },
+  {
+    "subject": "营商环境",
+    "predicate": "吸引",
+    "object": "企业落户",
+    "chunk": 17
+  },
+  {
+    "subject": "营商环境",
+    "predicate": "吸引",
+    "object": "项目落户",
+    "chunk": 17
+  },
+  {
+    "subject": "营商环境",
+    "predicate": "简化",
+    "object": "审批流程",
+    "chunk": 17
+  },
+  {
+    "subject": "营商环境",
+    "predicate": "提高",
+    "object": "服务效率",
+    "chunk": 17
+  },
+  {
+    "subject": "城市",
+    "predicate": "加强",
+    "object": "国内外企业合作",
+    "chunk": 17
+  },
+  {
+    "subject": "城市",
+    "predicate": "推动",
+    "object": "经济快速发展",
+    "chunk": 17
+  },
+  {
+    "subject": "产业园区",
+    "predicate": "提供",
+    "object": "产业发展平台",
+    "chunk": 17
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "产业园区",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "开发区",
+    "chunk": 18
+  },
+  {
+    "subject": "产业园区",
+    "predicate": "提供",
+    "object": "平台",
+    "chunk": 18
+  },
+  {
+    "subject": "产业园区",
+    "predicate": "提供",
+    "object": "空间",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "基础设施建设",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "完善",
+    "object": "配套服务",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "产业园区",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "产业园区吸引力",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "鼓励",
+    "object": "传统文化",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "支持",
+    "object": "传统文化",
+    "chunk": 18
+  },
+  {
+    "subject": "传统文化",
+    "predicate": "进行",
+    "object": "技术改造",
+    "chunk": 18
+  },
+  {
+    "subject": "传统文化",
+    "predicate": "进行",
+    "object": "升级换代",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "引进",
+    "object": "新技术",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "引进",
+    "object": "新工艺",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "生产效率",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "产品质量",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "品牌建设",
+    "chunk": 19
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "市场开拓",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "市场竞争力",
+    "chunk": 18
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "传统产业的生产效率",
+    "chunk": 19
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "市场开拓工作",
+    "chunk": 19
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高",
+    "object": "传统产业的产品质量",
+    "chunk": 19
+  },
+  {
+    "subject": "公众",
+    "predicate": "注重",
+    "object": "产业链的协同发展",
+    "chunk": 19
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "上下游企业之间的合作",
+    "chunk": 19
+  },
+  {
+    "subject": "公众",
+    "predicate": "促进",
+    "object": "产业链的协同发展",
+    "chunk": 19
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "提高",
+    "object": "产业附加值",
+    "chunk": 19
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "提高",
+    "object": "经济效益",
+    "chunk": 19
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "增强",
+    "object": "城市经济转型升级",
+    "chunk": 19
+  },
+  {
+    "subject": "公众",
+    "predicate": "注重",
+    "object": "科技创新工作",
+    "chunk": 20
+  },
+  {
+    "subject": "公众",
+    "predicate": "加大",
+    "object": "科技研发",
+    "chunk": 19
+  },
+  {
+    "subject": "公众",
+    "predicate": "加大",
+    "object": "成果转化",
+    "chunk": 19
+  },
+  {
+    "subject": "公众",
+    "predicate": "加大",
+    "object": "营商环境",
+    "chunk": 20
+  },
+  {
+    "subject": "营商环境",
+    "predicate": "针对",
+    "object": "科技研发",
+    "chunk": 20
+  },
+  {
+    "subject": "营商环境",
+    "predicate": "针对",
+    "object": "成果转化",
+    "chunk": 20
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "科技企业孵化器",
+    "chunk": 20
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设",
+    "object": "加速器",
+    "chunk": 20
+  },
+  {
+    "subject": "科技企业孵化器",
+    "predicate": "促进",
+    "object": "新兴产业",
+    "chunk": 20
+  },
+  {
+    "subject": "加速器",
+    "predicate": "促进",
+    "object": "新兴产业",
+    "chunk": 20
+  },
+  {
+    "subject": "新兴产业",
+    "predicate": "属于",
+    "object": "科技成果",
+    "chunk": 20
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "合作",
+    "chunk": 20
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强",
+    "object": "交流",
+    "chunk": 20
+  },
+  {
+    "subject": "合作",
+    "predicate": "与",
+    "object": "高校",
+    "chunk": 20
+  },
+  {
+    "subject": "合作",
+    "predicate": "与",
+    "object": "科研院所",
+    "chunk": 20
+  },
+  {
+    "subject": "交流",
+    "predicate": "与",
+    "object": "高校",
+    "chunk": 20
+  },
+  {
+    "subject": "交流",
+    "predicate": "与",
+    "object": "科研院所",
+    "chunk": 20
+  },
+  {
+    "subject": "公众",
+    "predicate": "推动",
+    "object": "产学研融合",
+    "chunk": 20
+  },
+  {
+    "subject": "公众",
+    "predicate": "结合",
+    "object": "城市实际",
+    "chunk": 20
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "进行",
+    "object": "科学布局和规划",
+    "chunk": 21
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "涉及",
+    "object": "新兴产业",
+    "chunk": 21
+  },
+  {
+    "subject": "新兴产业",
+    "predicate": "具有",
+    "object": "核心竞争力",
+    "chunk": 21
+  },
+  {
+    "subject": "新兴产业",
+    "predicate": "推动",
+    "object": "城市经济转型升级",
+    "chunk": 21
+  },
+  {
+    "subject": "新兴产业",
+    "predicate": "推动",
+    "object": "高质量发展",
+    "chunk": 21
+  },
+  {
+    "subject": "新能源",
+    "predicate": "改善",
+    "object": "居民生活质量",
+    "inferred": true
+  },
+  {
+    "subject": "全面覆盖",
+    "predicate": "提升",
+    "object": "城市面貌",
+    "inferred": true
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "促进",
+    "object": "居民生活质量",
+    "inferred": true
+  },
+  {
+    "subject": "新能源",
+    "predicate": "促进",
+    "object": "高效处理",
+    "inferred": true
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "需要",
+    "object": "科学分类",
+    "inferred": true
+  },
+  {
+    "subject": "职业教育",
+    "predicate": "培养",
+    "object": "高效处理",
+    "inferred": true
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "促进",
+    "object": "丰富的精神文化生活",
+    "inferred": true
+  },
+  {
+    "subject": "职业教育",
+    "predicate": "培养",
+    "object": "文化设施",
+    "inferred": true
+  },
+  {
+    "subject": "继续教育",
+    "predicate": "提升",
+    "object": "丰富的精神文化生活",
+    "inferred": true
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "包含",
+    "object": "道路绿化工作",
+    "inferred": true
+  },
+  {
+    "subject": "全面覆盖",
+    "predicate": "促进",
+    "object": "城市道路绿化覆盖率",
+    "inferred": true
+  },
+  {
+    "subject": "新能源",
+    "predicate": "支持",
+    "object": "道路绿化工作",
+    "inferred": true
+  },
+  {
+    "subject": "城市面貌",
+    "predicate": "受益于",
+    "object": "高效处理",
+    "inferred": true
+  },
+  {
+    "subject": "居民生活质量",
+    "predicate": "依赖于",
+    "object": "科学分类",
+    "inferred": true
+  },
+  {
+    "subject": "城市面貌",
+    "predicate": "改善通过",
+    "object": "城市垃圾问题",
+    "inferred": true
+  },
+  {
+    "subject": "城市面貌",
+    "predicate": "促进",
+    "object": "丰富的精神文化生活",
+    "inferred": true
+  },
+  {
+    "subject": "居民生活质量",
+    "predicate": "包含",
+    "object": "丰富的精神文化生活",
+    "inferred": true
+  },
+  {
+    "subject": "文化设施",
+    "predicate": "改善",
+    "object": "城市面貌",
+    "inferred": true
+  },
+  {
+    "subject": "城市面貌",
+    "predicate": "受益于",
+    "object": "道路绿化工作",
+    "inferred": true
+  },
+  {
+    "subject": "居民生活质量",
+    "predicate": "依赖于",
+    "object": "城市道路绿化覆盖率",
+    "inferred": true
+  },
+  {
+    "subject": "城市面貌",
+    "predicate": "反映",
+    "object": "城市道路绿化覆盖率",
+    "inferred": true
+  },
+  {
+    "subject": "高效处理",
+    "predicate": "促进",
+    "object": "丰富的精神文化生活",
+    "inferred": true
+  },
+  {
+    "subject": "科学分类",
+    "predicate": "释放资源用于",
+    "object": "文化设施",
+    "inferred": true
+  },
+  {
+    "subject": "城市垃圾问题",
+    "predicate": "影响",
+    "object": "丰富的精神文化生活",
+    "inferred": true
+  },
+  {
+    "subject": "高效处理",
+    "predicate": "促进",
+    "object": "道路绿化工作",
+    "inferred": true
+  },
+  {
+    "subject": "科学分类",
+    "predicate": "支持",
+    "object": "城市道路绿化覆盖率",
+    "inferred": true
+  },
+  {
+    "subject": "城市垃圾问题",
+    "predicate": "影响",
+    "object": "道路绿化工作",
+    "inferred": true
+  },
+  {
+    "subject": "文化设施",
+    "predicate": "促进",
+    "object": "道路绿化工作",
+    "inferred": true
+  },
+  {
+    "subject": "丰富的精神文化生活",
+    "predicate": "提升",
+    "object": "城市道路绿化覆盖率",
+    "inferred": true
+  },
+  {
+    "subject": "文化设施",
+    "predicate": "配套",
+    "object": "道路绿化工作",
+    "inferred": true
+  },
+  {
+    "subject": "新能源",
+    "predicate": "推动",
+    "object": "新能源汽车",
+    "inferred": true
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "优化",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市交通",
+    "predicate": "属于",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "生产效率",
+    "predicate": "提升",
+    "object": "传统产业的生产效率",
+    "inferred": true
+  },
+  {
+    "subject": "城市供水系统检查",
+    "predicate": "保障",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "国内外企业合作",
+    "predicate": "促进",
+    "object": "合作",
+    "inferred": true
+  },
+  {
+    "subject": "城市经济转型升级",
+    "predicate": "推动",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "高效利用",
+    "predicate": "包含",
+    "object": "利用",
+    "inferred": true
+  },
+  {
+    "subject": "合作",
+    "predicate": "包含",
+    "object": "上下游企业之间的合作",
+    "inferred": true
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "涉及 via 新兴产业",
+    "object": "高质量发展",
+    "inferred": true
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "涉及 via 新兴产业",
+    "object": "核心竞争力",
+    "inferred": true
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "涉及 via 新兴产业",
+    "object": "科技成果",
+    "inferred": true
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "涉及 via 新兴产业",
+    "object": "城市经济转型升级",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入 via 新能源",
+    "object": "碳排放",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与 via 城市管理",
+    "object": "生态环境",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与 via 城市管理",
+    "object": "经济效益",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与 via 城市管理",
+    "object": "河道水质",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与 via 城市管理",
+    "object": "防洪排涝能力",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与 via 城市管理",
+    "object": "产业附加值",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与 via 城市管理",
+    "object": "雨水径流压力",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与 via 城市管理",
+    "object": "城市经济转型升级",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "参与 via 城市管理",
+    "object": "雨水资源利用",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设 via 科技企业孵化器",
+    "object": "新兴产业",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "启动 via 地铁线路",
+    "object": "市民出行",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 合作",
+    "object": "科研院所",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 合作",
+    "object": "高校",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "编制 via 专项规划",
+    "object": "环保措施",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "编制 via 专项规划",
+    "object": "人文关怀",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "编制 via 专项规划",
+    "object": "历史文化名城保护规划",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "编制 via 专项规划",
+    "object": "绿地系统规划",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "编制 via 专项规划",
+    "object": "城市建设",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "编制 via 专项规划",
+    "object": "交通规划",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高 via 产业园区",
+    "object": "空间",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高 via 产业园区",
+    "object": "平台",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高 via 产业园区",
+    "object": "产业发展平台",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "改扩建 via 学校",
+    "object": "上学难问题",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "听取 via 公众参与",
+    "object": "参考",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "听取 via 公众参与",
+    "object": "改进方向",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "新建 via 交通设施",
+    "object": "主干道改造",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "新建 via 交通设施",
+    "object": "城市交通",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "新建 via 交通设施",
+    "object": "投资力度",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "新建 via 交通设施",
+    "object": "交通问题",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "新建 via 交通设施",
+    "object": "主干道拓宽",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 城市基础设施",
+    "object": "大规模改造和升级",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 城市基础设施",
+    "object": "可靠性",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 城市基础设施",
+    "object": "供电能力",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "indirectly 加强",
+    "object": "建设和维护",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "改扩建 via 体育设施",
+    "object": "便捷的体育锻炼场所",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "改扩建 via 体育设施",
+    "object": "多样的体育锻炼场所",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "结合 via 城市发展",
+    "object": "科学布局和规划",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "结合 via 城市发展",
+    "object": "精细管理",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "结合 via 城市发展",
+    "object": "显著成效",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "结合 via 城市发展",
+    "object": "持续创新",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "结合 via 城市发展",
+    "object": "新兴产业",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "结合 via 城市发展",
+    "object": "科学规划",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加大 via 营商环境",
+    "object": "审批流程",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加大 via 营商环境",
+    "object": "服务效率",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加大 via 营商环境",
+    "object": "项目落户",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加大 via 营商环境",
+    "object": "企业落户",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "建设 via 加速器",
+    "object": "新兴产业",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 历史建筑",
+    "object": "利用",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 历史建筑",
+    "object": "修缮",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 交流",
+    "object": "科研院所",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 交流",
+    "object": "高校",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 工业污染",
+    "object": "空气质量",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "加强 via 工业污染",
+    "object": "企业安装污染治理设施",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "indirectly 加强",
+    "object": "监管力度",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高 via 城市环境",
+    "object": "城市景观",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高 via 城市环境",
+    "object": "休闲娱乐",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高 via 城市环境",
+    "object": "噪音",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "提高 via 城市环境",
+    "object": "空气",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入 via 数字化管理",
+    "object": "管理效率",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入 via 数字化管理",
+    "object": "处理问题",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入 via 数字化管理",
+    "object": "全面覆盖",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入 via 数字化管理",
+    "object": "管理质量",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入 via 数字化管理",
+    "object": "管理人员负责",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入 via 数字化管理",
+    "object": "发现问题",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入 via 数字化管理",
+    "object": "精细化管理",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "引入 via 数字化管理",
+    "object": "智能技术",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "支持 via 传统文化",
+    "object": "升级换代",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "支持 via 传统文化",
+    "object": "技术改造",
+    "inferred": true
+  },
+  {
+    "subject": "城市基础设施",
+    "predicate": "应对 via 新能源",
+    "object": "碳排放",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 环保措施",
+    "object": "市民的健康意识",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 环保措施",
+    "object": "提高污水处理能力",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 环保措施",
+    "object": "市民的自我保健能力",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 环保措施",
+    "object": "提高出水水质标准",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 环保措施",
+    "object": "资源化利用",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 环保措施",
+    "object": "垃圾处理",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 城市发展",
+    "object": "科学布局和规划",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 城市发展",
+    "object": "精细管理",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 城市发展",
+    "object": "显著成效",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 城市发展",
+    "object": "持续创新",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 城市发展",
+    "object": "新兴产业",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "注重 via 城市发展",
+    "object": "科学规划",
+    "inferred": true
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "实现 via 智能技术",
+    "object": "高效利用",
+    "inferred": true
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "实现 via 智能技术",
+    "object": "电力资源优化配置",
+    "inferred": true
+  },
+  {
+    "subject": "城市",
+    "predicate": "划分为 via 数字化管理",
+    "object": "管理效率",
+    "inferred": true
+  },
+  {
+    "subject": "城市",
+    "predicate": "划分为 via 数字化管理",
+    "object": "处理问题",
+    "inferred": true
+  },
+  {
+    "subject": "城市",
+    "predicate": "划分为 via 数字化管理",
+    "object": "全面覆盖",
+    "inferred": true
+  },
+  {
+    "subject": "城市",
+    "predicate": "划分为 via 数字化管理",
+    "object": "管理质量",
+    "inferred": true
+  },
+  {
+    "subject": "城市",
+    "predicate": "划分为 via 数字化管理",
+    "object": "管理人员负责",
+    "inferred": true
+  },
+  {
+    "subject": "城市",
+    "predicate": "划分为 via 数字化管理",
+    "object": "发现问题",
+    "inferred": true
+  },
+  {
+    "subject": "城市",
+    "predicate": "划分为 via 数字化管理",
+    "object": "精细化管理",
+    "inferred": true
+  },
+  {
+    "subject": "城市",
+    "predicate": "划分为 via 数字化管理",
+    "object": "智能技术",
+    "inferred": true
+  },
+  {
+    "subject": "问卷调查",
+    "predicate": "用于 via 公众参与",
+    "object": "参考",
+    "inferred": true
+  },
+  {
+    "subject": "问卷调查",
+    "predicate": "用于 via 公众参与",
+    "object": "城市管理",
+    "inferred": true
+  },
+  {
+    "subject": "问卷调查",
+    "predicate": "用于 via 公众参与",
+    "object": "改进方向",
+    "inferred": true
+  },
+  {
+    "subject": "问卷调查",
+    "predicate": "用于 via 公众参与",
+    "object": "城市规划",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及 via 城市管理",
+    "object": "水资源管理",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及 via 城市管理",
+    "object": "生态环境",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及 via 城市管理",
+    "object": "经济效益",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及 via 城市管理",
+    "object": "河道水质",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及 via 城市管理",
+    "object": "防洪排涝能力",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及 via 城市管理",
+    "object": "产业附加值",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及 via 城市管理",
+    "object": "雨水径流压力",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及 via 城市管理",
+    "object": "城市经济转型升级",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "涉及 via 城市管理",
+    "object": "雨水资源利用",
+    "inferred": true
+  },
+  {
+    "subject": "修缮",
+    "predicate": "保护 via 历史建筑",
+    "object": "保护措施",
+    "inferred": true
+  },
+  {
+    "subject": "修缮",
+    "predicate": "保护 via 历史建筑",
+    "object": "传统文化",
+    "inferred": true
+  },
+  {
+    "subject": "修缮",
+    "predicate": "保护 via 历史建筑",
+    "object": "利用",
+    "inferred": true
+  },
+  {
+    "subject": "历史建筑",
+    "predicate": "得到 via 传统文化",
+    "object": "升级换代",
+    "inferred": true
+  },
+  {
+    "subject": "历史建筑",
+    "predicate": "得到 via 传统文化",
+    "object": "技术改造",
+    "inferred": true
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建 via 学校",
+    "object": "上学难问题",
+    "inferred": true
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建 via 休闲娱乐",
+    "object": "公众",
+    "inferred": true
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建 via 城市环境",
+    "object": "城市景观",
+    "inferred": true
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建 via 城市环境",
+    "object": "噪音",
+    "inferred": true
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建 via 城市环境",
+    "object": "空气",
+    "inferred": true
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建 via 体育设施",
+    "object": "便捷的体育锻炼场所",
+    "inferred": true
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建 via 体育设施",
+    "object": "公众",
+    "inferred": true
+  },
+  {
+    "subject": "政府",
+    "predicate": "改扩建 via 体育设施",
+    "object": "多样的体育锻炼场所",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "新能源",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "城市管理",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "多个图书馆",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "产学研融合",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "市民自我保健能力",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "新技术",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "科技企业孵化器",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "公共卫生体系建设",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "垃圾焚烧发电厂",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "生产效率",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "科技研发",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "城市供水系统检查",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "地铁线路",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "公交车数量",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "市场竞争力",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "清洁能源汽车",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "合作",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "新能源汽车",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "多个文化馆",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "体育设施建设",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "专项规划",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "疾病预防控制机制",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "产业园区",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "机动车尾气检测",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "产品质量",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "城市文化软实力",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "河道管理",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "学校",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "学校建设投入",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "历史建筑普查",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "展览",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "新工艺",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "公众参与",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "公交线路",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "交通设施",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "供水稳定性",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "健康生活方式",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "城市基础设施",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "城市发展",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "科技创新工作",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "市场开拓",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "多个博物馆",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "医疗服务",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "老旧管道",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "保护措施",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "慢行交通系统建设",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "健身设施",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "应急救治机制",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "营商环境",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "演出",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "城市规划",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "健康教育",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "上下游企业之间的合作",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "加速器",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "成果转化",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "开发区",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "水资源管理",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "透水铺装",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "传统产业的生产效率",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "产业园区吸引力",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "历史建筑",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "交流",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "雨水花园",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "供水水质",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "品牌建设",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "工业污染",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "配套服务",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "高效医疗服务",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "便捷医疗服务",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "市民健康意识",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "产业链的协同发展",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "基础设施建设",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "城市环境",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "市场开拓工作",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "文化遗产",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "城市实际",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "数字化管理",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "基层医疗卫生机构建设",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "传统产业的产品质量",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "未来趋势",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "垃圾分类收集站",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "服务 via 公众",
+    "object": "传统文化",
+    "inferred": true
+  },
+  {
+    "subject": "健身设施",
+    "predicate": "indirectly 提供",
+    "object": "便捷的体育锻炼场所",
+    "inferred": true
+  },
+  {
+    "subject": "健身设施",
+    "predicate": "提供 via 体育设施",
+    "object": "公众",
+    "inferred": true
+  },
+  {
+    "subject": "健身设施",
+    "predicate": "indirectly 提供",
+    "object": "多样的体育锻炼场所",
+    "inferred": true
+  },
+  {
+    "subject": "城市环境",
+    "predicate": "提供 via 休闲娱乐",
+    "object": "公众",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "改善 via 城市环境",
+    "object": "城市景观",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "改善 via 城市环境",
+    "object": "噪音",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "改善 via 城市环境",
+    "object": "空气",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "新能源",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "城市管理",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "多个图书馆",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "产学研融合",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "市民自我保健能力",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "新技术",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "科技企业孵化器",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "公共卫生体系建设",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "垃圾焚烧发电厂",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "生产效率",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "科技研发",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "城市供水系统检查",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "地铁线路",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "公交车数量",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "市场竞争力",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "清洁能源汽车",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "合作",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "新能源汽车",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "多个文化馆",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "体育设施建设",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "专项规划",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "疾病预防控制机制",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "产业园区",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "机动车尾气检测",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "产品质量",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "城市文化软实力",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "河道管理",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "学校",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "学校建设投入",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "历史建筑普查",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "展览",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "新工艺",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "公众参与",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "公交线路",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "交通设施",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "供水稳定性",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "健康生活方式",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "城市基础设施",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "体育设施",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "城市发展",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "科技创新工作",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "市场开拓",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "多个博物馆",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "医疗服务",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "老旧管道",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "保护措施",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "慢行交通系统建设",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "健身设施",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "应急救治机制",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "营商环境",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "演出",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "城市规划",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "健康教育",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "上下游企业之间的合作",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "加速器",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "成果转化",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "开发区",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "水资源管理",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "透水铺装",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "传统产业的生产效率",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "产业园区吸引力",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "历史建筑",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "交流",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "雨水花园",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "供水水质",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "品牌建设",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "工业污染",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "配套服务",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "高效医疗服务",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "便捷医疗服务",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "市民健康意识",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "产业链的协同发展",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "基础设施建设",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "市场开拓工作",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "文化遗产",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "城市实际",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "数字化管理",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "基层医疗卫生机构建设",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "传统产业的产品质量",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "未来趋势",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "垃圾分类收集站",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "服务 via 公众",
+    "object": "传统文化",
+    "inferred": true
+  },
+  {
+    "subject": "执法检查",
+    "predicate": "减少 via 工业污染",
+    "object": "空气质量",
+    "inferred": true
+  },
+  {
+    "subject": "执法检查",
+    "predicate": "减少 via 工业污染",
+    "object": "企业安装污染治理设施",
+    "inferred": true
+  },
+  {
+    "subject": "执法检查",
+    "predicate": "减少 via 工业污染",
+    "object": "监管力度",
+    "inferred": true
+  },
+  {
+    "subject": "行政处罚",
+    "predicate": "减少 via 工业污染",
+    "object": "空气质量",
+    "inferred": true
+  },
+  {
+    "subject": "行政处罚",
+    "predicate": "减少 via 工业污染",
+    "object": "企业安装污染治理设施",
+    "inferred": true
+  },
+  {
+    "subject": "行政处罚",
+    "predicate": "减少 via 工业污染",
+    "object": "监管力度",
+    "inferred": true
+  },
+  {
+    "subject": "限制高排放车辆",
+    "predicate": "降低 via 工业污染",
+    "object": "空气质量",
+    "inferred": true
+  },
+  {
+    "subject": "限制高排放车辆",
+    "predicate": "降低 via 工业污染",
+    "object": "企业安装污染治理设施",
+    "inferred": true
+  },
+  {
+    "subject": "限制高排放车辆",
+    "predicate": "降低 via 工业污染",
+    "object": "监管力度",
+    "inferred": true
+  },
+  {
+    "subject": "科技企业孵化器",
+    "predicate": "促进 via 新兴产业",
+    "object": "高质量发展",
+    "inferred": true
+  },
+  {
+    "subject": "科技企业孵化器",
+    "predicate": "促进 via 新兴产业",
+    "object": "核心竞争力",
+    "inferred": true
+  },
+  {
+    "subject": "科技企业孵化器",
+    "predicate": "促进 via 新兴产业",
+    "object": "科技成果",
+    "inferred": true
+  },
+  {
+    "subject": "科技企业孵化器",
+    "predicate": "促进 via 新兴产业",
+    "object": "城市经济转型升级",
+    "inferred": true
+  },
+  {
+    "subject": "加速器",
+    "predicate": "促进 via 新兴产业",
+    "object": "高质量发展",
+    "inferred": true
+  },
+  {
+    "subject": "加速器",
+    "predicate": "促进 via 新兴产业",
+    "object": "核心竞争力",
+    "inferred": true
+  },
+  {
+    "subject": "加速器",
+    "predicate": "促进 via 新兴产业",
+    "object": "科技成果",
+    "inferred": true
+  },
+  {
+    "subject": "加速器",
+    "predicate": "促进 via 新兴产业",
+    "object": "城市经济转型升级",
+    "inferred": true
+  },
+  {
+    "subject": "新能源",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "丰富的精神文化生活",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "全面覆盖",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "继续教育",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "职业教育",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "多个图书馆",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "执法检查",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "产学研融合",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "主干道改造",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "提高污水处理能力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "市民的健康意识",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "经济快速发展",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "市民自我保健能力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "绿化带",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "新技术",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "科技企业孵化器",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "噪音",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "修缮",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "公共卫生体系建设",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "科学布局和规划",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "垃圾焚烧发电厂",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市交通",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "生产效率",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "大规模改造和升级",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市供水系统检查",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "科技研发",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "国内外企业合作",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "高校",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "智能技术",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "高效利用",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "建设和维护",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市经济转型升级",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "地铁线路",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "公交车数量",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "处理问题",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "医疗覆盖面",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "市场竞争力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "就业能力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "行道树",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "清洁能源汽车",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "提高出水水质标准",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "合作",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "新能源汽车",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "多个文化馆",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "产业发展平台",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "专项规划",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施建设",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "科学分类",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "改造工程",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "疾病预防控制机制",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "空气质量",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "上学难问题",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "政府",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "机动车尾气检测",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "产业园区",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "河道水质",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "产品质量",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市文化软实力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "河道管理",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "投资力度",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "交通问题",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "学校",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "学校建设投入",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "文化设施",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "历史建筑普查",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "经济效益",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "展览",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "新工艺",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "公众参与",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "道路绿化工作",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "交通规划",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "学校布局",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "人文关怀",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "管理效率",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "利用",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "技术改造",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "公交线路",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "升级换代",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "历史文化名城保护规划",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "市民的自我保健能力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "科学规划",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "交通设施",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "供水稳定性",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "项目落户",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "健康生活方式",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市基础设施",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "垃圾处理",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "监管力度",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "休闲娱乐",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "显著成效",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "科技创新工作",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "新兴产业",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "市场开拓",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "多个博物馆",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "高质量发展",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "医疗服务",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "空间",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "高效处理",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "服务效率",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "可靠性",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "交通设施完善",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "老旧管道",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "改进方向",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "碳排放",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "保护措施",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "慢行交通系统建设",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "环保措施",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市道路绿化覆盖率",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "教育设施",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "健身设施",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "参考",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "应急救治机制",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "行政处罚",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "营商环境",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "市民出行",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "演出",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "供电能力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市规划",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "健康教育",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "上下游企业之间的合作",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "加速器",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "管理质量",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市景观",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "防洪排涝能力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "成果转化",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "开发区",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "水资源管理",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "透水铺装",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "空气",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "教师待遇",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "传统产业的生产效率",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "产业园区吸引力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "历史建筑",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "精细化管理",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "雨水花园",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "交流",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "公众",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "供水水质",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "品牌建设",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市垃圾问题",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "核心竞争力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "工业污染",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "教育资源配置",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市基础设施建设",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "管理人员负责",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "配套服务",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "高效医疗服务",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "企业安装污染治理设施",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "资源化利用",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "限制高排放车辆",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "便捷医疗服务",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "雨水资源利用",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "市民健康意识",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "产业链的协同发展",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "生态环境",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "基础设施建设",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "市民综合素质",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市环境",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "市场开拓工作",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市建设",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "文化遗产",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市实际",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "排水系统压力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "多样的体育锻炼场所",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "审批流程",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "平台",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "城市雨水径流",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "持续创新",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "数字化管理",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "电力资源优化配置",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "基层医疗卫生机构建设",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "绿地系统规划",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "问卷调查",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "便捷的体育锻炼场所",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "发现问题",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "传统产业的产品质量",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "科研院所",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "雨水径流压力",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "主干道拓宽",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "科技成果",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "精细管理",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "未来趋势",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "垃圾分类收集站",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "企业落户",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "产业附加值",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "传统文化",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "教育公平",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "新能源汽车",
+    "predicate": "is type of",
+    "object": "新能源",
+    "inferred": true
+  },
+  {
+    "subject": "城市管理",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市交通",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "传统产业的生产效率",
+    "predicate": "is type of",
+    "object": "生产效率",
+    "inferred": true
+  },
+  {
+    "subject": "城市供水系统检查",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "国内外企业合作",
+    "predicate": "is type of",
+    "object": "合作",
+    "inferred": true
+  },
+  {
+    "subject": "高效利用",
+    "predicate": "is type of",
+    "object": "利用",
+    "inferred": true
+  },
+  {
+    "subject": "城市经济转型升级",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "上下游企业之间的合作",
+    "predicate": "is type of",
+    "object": "合作",
+    "inferred": true
+  },
+  {
+    "subject": "产业发展平台",
+    "predicate": "is type of",
+    "object": "平台",
+    "inferred": true
+  },
+  {
+    "subject": "体育设施建设",
+    "predicate": "is type of",
+    "object": "体育设施",
+    "inferred": true
+  },
+  {
+    "subject": "空气质量",
+    "predicate": "is type of",
+    "object": "空气",
+    "inferred": true
+  },
+  {
+    "subject": "产业园区吸引力",
+    "predicate": "is type of",
+    "object": "产业园区",
+    "inferred": true
+  },
+  {
+    "subject": "传统产业的产品质量",
+    "predicate": "is type of",
+    "object": "产品质量",
+    "inferred": true
+  },
+  {
+    "subject": "城市文化软实力",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "学校建设投入",
+    "predicate": "is type of",
+    "object": "学校",
+    "inferred": true
+  },
+  {
+    "subject": "学校布局",
+    "predicate": "is type of",
+    "object": "学校",
+    "inferred": true
+  },
+  {
+    "subject": "历史建筑普查",
+    "predicate": "is type of",
+    "object": "历史建筑",
+    "inferred": true
+  },
+  {
+    "subject": "资源化利用",
+    "predicate": "is type of",
+    "object": "利用",
+    "inferred": true
+  },
+  {
+    "subject": "雨水资源利用",
+    "predicate": "is type of",
+    "object": "利用",
+    "inferred": true
+  },
+  {
+    "subject": "交通设施完善",
+    "predicate": "is type of",
+    "object": "交通设施",
+    "inferred": true
+  },
+  {
+    "subject": "城市基础设施",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市基础设施建设",
+    "predicate": "is type of",
+    "object": "城市基础设施",
+    "inferred": true
+  },
+  {
+    "subject": "城市发展",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "市场开拓工作",
+    "predicate": "is type of",
+    "object": "市场开拓",
+    "inferred": true
+  },
+  {
+    "subject": "高效医疗服务",
+    "predicate": "is type of",
+    "object": "医疗服务",
+    "inferred": true
+  },
+  {
+    "subject": "便捷医疗服务",
+    "predicate": "is type of",
+    "object": "医疗服务",
+    "inferred": true
+  },
+  {
+    "subject": "城市道路绿化覆盖率",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市规划",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市景观",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市垃圾问题",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市基础设施建设",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市环境",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市建设",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市面貌",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市实际",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市雨水径流",
+    "predicate": "is type of",
+    "object": "城市",
+    "inferred": true
+  },
+  {
+    "subject": "城市基础设施建设",
+    "predicate": "is type of",
+    "object": "基础设施建设",
+    "inferred": true
+  }
+]
