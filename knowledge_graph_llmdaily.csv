@@ -1,0 +1,1574 @@
+subject,predicate,object
+华中科技大学,包含,llm相关定义与使用
+华中科技大学,包含,rag
+华中科技大学,包含,知识图谱
+llm相关定义与使用,包含,llm定义
+llm相关定义与使用,包含,llm agents
+llm相关定义与使用,包含,特殊术语
+rag,解决,旧有llm问题
+rag,包含,rag定义
+rag,包含,rag结构
+知识图谱,包含,知识图谱技术
+知识图谱,包含,知识图谱构建方式
+知识图谱,包含,传统知识图谱
+知识图谱,包含,开放知识图谱
+知识图谱,有,发展历程
+传统知识图谱,有,应用场景
+开放知识图谱,是,知识图谱
+自建知识图谱,是,知识图谱
+自建知识图谱,包括,手动构建知识图谱
+自建知识图谱,包括,利用深度学习或llm自建知识图谱
+知识图谱,帮助,大模型生成
+grag,是,graph retrieval-augmented
+多智能体,有,定义
+多智能体,有,使用
+多智能体,有,小工具和代码
+pyvis,生成,知识图谱
+deepseek,创建,知识图谱
+华中科技大学,是,机构
+一些杂项167,利用,pyvis
+一些杂项167,生成,知识图谱
+一些杂项167,利用,deepseek
+一些杂项167,创建,知识图谱
+华中科技大学,定义,llm
+llm,是,高级ai系统
+llm,使用,llms
+llm,理解,人类语言
+llm,生成,人类语言
+llms,具有,上下文能力
+llms,具有,复杂语言能力
+llm,具有,上下文能力
+llm,具有,复杂语言能力
+llm代理,无法理解,人类细微情感
+llm代理,面临,错误信息风险
+llm代理,面临,偏见风险
+llm代理,面临,隐私数据泄露
+llm代理,面临,毒性风险
+llm代理,无法理解,人类情感
+llm代理,存在,错误信息
+llm代理,存在,偏见
+llm代理,存在,隐私数据泄露
+llm代理,存在,有害内容
+用户,需要,引导llm代理
+用户,包括,人类
+用户,包括,apis
+用户,通过,提示
+提示,包括,查询
+提示,包括,指令
+提示,包括,上下文
+用户,需要,提示
+提示,通过,查询
+提示,通过,指令
+提示,通过,上下文
+提示,影响,响应
+提示,影响,动作
+核心,是,llm代理
+核心,相当于,中央处理单元
+核心,管理,逻辑
+核心,管理,行为特征
+核心,解释,输入
+核心,应用,推理
+核心,确定,行动方案
+核心,负责,一致性
+核心,负责,连贯性
+决策模块,确定,行动方案
+决策模块,负责,确保代理行为一致
+决策模块,遵循,指导方针
+决策模块,遵循,行为模式
+记忆组件,作为,存储库
+记忆组件,存储,用户交互
+记忆组件,组织,数据
+记忆组件,检索,数据
+代理,回忆,先前对话
+代理,回忆,用户偏好
+代理,回忆,上下文信息
+代理,提供,个性化响应
+工具,是,工作流程
+代理,利用,工具
+代理,执行,特定任务
+可执行的工作流程,是,代理执行任务的工具
+代理,利用,可执行的工作流程
+工具,范围包括,生成复杂查询的答案
+工具,范围包括,执行专门任务
+工具,类似,计算机应用程序
+工具,类似,计算机实用程序
+计算机,执行,广泛功能
+每个工具,设计用于,特定目的
+核心,决定使用,工具
+核心,根据,任务上下文
+核心,根据,任务性质
+模块化方法,允许,灵活性和可扩展性
+模块化方法,可以添加,新工具
+模块化方法,可以更新,现有工具
+计划模块,处理,复杂问题
+计划模块,改进,执行计划
+计划模块,位于,核心和工具之上
+计划模块,使代理,反应即时查询
+计划模块,使代理,规划长期目标
+计划模块,使代理,规划复杂任务
+战略层,位于,核心和工具之上
+代理,能够,对即时查询做出反应
+代理,能够,规划长期目标
+代理,能够,处理复杂任务
+规划模块,评估,不同方法
+规划模块,预测,潜在挑战
+规划模块,制定,策略
+策略,实现,期望结果
+大任务,分解为,更小步骤
+代理,学习,过去经历
+代理,优化,未来表现
+tokens,是,大模型处理的最小单位
+tokens,相当于,计算粒度
+tokens,被视为,ai专用流量计量单位
+tokens,等于,2-4个汉字
+算粒度,被视作,ai专用流量计量单位
+1token,等于,2-4个汉字
+涌现,是,现象
+涌现,又称,创发
+涌现,又称,突现
+涌现,又称,呈展
+涌现,又称,演生
+小实体,相互作用,大实体
+大实体,展现,特性
+模型规模,达到,阈值
+模型规模,提升,准确性
+准确性,涉及,多步算术
+准确性,涉及,大学考试
+准确性,涉及,单词释义
+准确性提升,称为,涌现
+指令,提升,模型性能
+标注数据集,提升,模型性能
+准确性,显著提升,涌现
+思维链,称为,chain-of-thought
+大语言模型,拆解,问题
+大语言模型,分析,步骤
+大语言模型,得出,答案
+复杂问题,导致,错误答案
+思维链,视为,指令微调
+温度,调节,生成策略
+温度,决定,内容风格
+较高温度,影响,生成内容
+温度,调节,大模型生成
+温度,决定,生成内容风格
+较高温度,增加,随机性
+较低温度,选择,概率最高结果
+温度趋近于0,导致,确定性输出
+温度高,导致,输出更多样化
+温度高,可能包含,更多错误内容
+温度高,可能包含,不相关内容
+本体,是,知识图谱的创建
+向量化,是,embedding
+本体,是,特定约束
+本体,是,规范
+向量化,是,过程
+向量化,转化,文本数据
+向量化,影响,检索效果
+embedding,满足,需求
+特殊场景,涉及,罕见专有词
+开源embedding模型,可微调,效果优化
+开源embedding模型,可训练,适合模型
+开源embedding模型,用于,微调
+开源embedding模型,用于,训练
+参数化知识,存储于,神经网络权重
+非参数化知识,存储于,外部知识库
+向量数据库,属于,外部知识库
+知识,存储在,神经网络
+知识,存储在,外部知识库
+外部知识库,例如,向量数据库
+传统llm模型,进行,大量训练
+传统llm模型,存储,知识
+传统llm模型,难以更改,记忆储存
+传统llm模型,导致,知识更新困难
+llm,输出,事实不准确
+事实不准确,称为,模型幻觉
+输出,导致,事实不准确
+模型幻觉,英文是,hallucinations
+memory networks,有论文,https://arxiv.org/abs/1410.3916
+memory networks,有论文,https://www.cainiaoya.com/neo4j/ne
+stack-augmented networks,中文是,堆栈增强网络
+rag,定义为,检索增强提示
+patrick lewis,提出,rag
+ethan perez,提出,rag
+rag,结合,传统信息检索系统
+传统信息检索系统,例如,数据库
+patrick lewis,提出,生成
+ethan perez,提出,生成
+生成,结合,信息检索系统
+生成,结合,大语言模型
+大语言模型,给予,非参数化知识
+非参数化知识,来自,外部知识库
+大语言模型,结合,语言技能
+大语言模型,撰写,文字
+生成,包含步骤,检索
+检索,根据,用户请求
+检索,从,外部知识库
+检索增强提示,包含步骤,检索
+检索增强提示,包含步骤,增强
+检索增强提示,包含步骤,生成
+检索,使用,嵌入模型
+嵌入模型,将,用户查询
+嵌入模型,嵌入到,向量空间
+向量空间,包含,附加上下文
+检索,执行,相似性搜索
+相似性搜索,返回,前k个数据对象
+增强,填充,提示模板
+提示模板,包含,用户查询
+提示模板,包含,附加上下文
+生成,馈送,检索增强提示
+附加上下文,被填充到,提示模板
+检索增强提示,被馈送到,llm
+rag,有结构,简单结构
+g,有,结构图
+multi query retriever,来自,github
+华中科技大学,生成,答案
+华中科技大学,回答,问题
+retrieve grade,评估,幻觉
+no question docs,相关,问题
+知识图谱,由,节点和边构成
+节点,代表,实体
+实体,可以是,对象
+实体,可以是,事件
+实体,可以是,情景
+实体,可以是,概念
+边,表示,关系
+mary,消费,更多食物
+lamb,盛在,盘子上
+盘子,包含,食物
+知识图谱,用于,图形检索增强生成
+图形检索增强生成,简称,grag
+图形检索增强生成,简称,gag
+知识图谱,优于,旧版rag
+知识图谱,适用于,查询缺乏上下文
+知识图谱,适用于,上下文跨越多文本片段
+知识图谱,以形式表达,三元组
+cavipor to,有形式,form
+tim berners-lee,提出,语义网络
+tim berners-lee,描述,语义网络
+语义网络,是,知识图谱发展历程
+知识图谱,发展于,语义网络
+tim berners-lee,发表,论文
+语义网,旨在,结构化表示实体及其关系
+语义网,发展缓慢,规模小
+语义网,发展缓慢,应用场景不清楚
+google,推出,knowledge graph
+google,发布,570
+google,发布,570亿实体的大规模知识图谱
+google,应用,搜索引擎
+知识图谱,改变,现状
+知识图谱,应用于,搜索
+知识图谱,应用于,推荐
+知识图谱,应用于,问答系统
+知识图谱,成为,人工智能的重要组成部分
+搜索引擎,提升,搜索结果的相关性
+推荐系统,基于,用户兴趣
+推荐系统,基于,用户行为
+推荐系统,提供,个性化推荐
+问答系统,支持,基于知识的问答
+问答系统,提供,准确的答案
+智能助手,包括,siri
+智能助手,包括,alexa
+智能助手,通过,知识图谱
+智能助手,理解,用户意图
+智能助手,提供,智能服务
+通用知识图谱,存储,通用的结构化知识
+通用知识图谱,存储,通用结构化知识
+通用知识图谱,依赖,全球社区
+全球社区,贡献,通用知识图谱
+全球社区,更新,通用知识图谱
+wikidata,是,开放知识图谱
+freebase,是,开放知识图谱
+dbpedia,是,开放知识图谱
+yago-knowledge,是,开放知识图谱
+conceptnet,是,开放知识图谱
+yago-knowledge,是,知识图谱定义
+conceptnet,是,知识图谱定义
+自建知识图谱,称为,self-constructed graph data
+手动构建知识图谱,是,知识图谱生成约束
+知识图谱技术,发展于,初期
+企业,采用,自顶向下方式
+科研机构,采用,自顶向下方式
+华中科技大学,构建,基础知识库
+freebase,是,基础知识库
+自动知识抽取,成熟,技术
+加工技术,成熟,技术
+知识图谱,采用,自底向上方式
+freebase,是,知识库
+google,拥有,knowledge vault
+微软,拥有,satori知识库
+构建方法,需要,大模型
+构建方法,耗费,时间和人力
+知识图谱,利用,深度学习
+知识图谱,利用,llm
+knowledge graph,是,方法
+华中科技大学,分割,文本语料库
+华中科技大学,分配,chunk_id
+llm,提取,概念
+llm,提取,语义关系
+关系,分配,w1权重
+概念,具有,多重关系
+关系,是,边
+概念,关联,上下文邻近性
+关系,分配,w2权重
+概念,出现在,多个块
+邻近性,相关联,权重
+概念对,出现在,多个块
+相似的对,分组,权重
+相似的对,连接,关系
+概念对,具有,一条边
+边,具有,权重
+边,带有,关系名称
+llm,用于,构建知识图谱
+深度学习,用于,构建知识图谱
+text-to-kg生成器,称为,kggen
+成器,利用,deepseek
+成器,生成,图谱
+grag,代表,graph retrieval-augmented
+rag方法,比,单独使用llm
+rag方法,更有成效,单独使用llm
+llm,回答,用户查询
+llm回答,导致,浅层次回答
+llm回答,导致,缺乏具体性
+rag,解决,问题
+rag,检索,相关文本信息
+rag,缓解,问题
+现实中的文本,不是,独立存在
+现实中的文本,充满,各种关系
+rag方法,有,问题
+rag方法,忽视,关系
+文本,存在,关系
+传统rag方法,无法捕捉,结构化关系知识
+引用网络,包含,论文
+论文,通过,引用关系
+传统rag方法,找到,相关论文
+传统rag方法,忽略,引用关系
+rag,拼接,提示词
+rag,导致,上下文过长
+rag,没有侧重,中心
+rag,作为,提示词拼接
+rag,导致,关键部分丢失
+关键部分丢失,发生在,文章中间部分
+华中科技大学,与传统,rag不同
+grag,利用,知识图谱
+知识图谱,包含,文本相互联系
+grag,能够,检索关系信息
+图数据,提供,文本数据
+知识图谱,提供,文本数据抽象
+知识图谱,缩短,输入文本长度
+知识图谱,减少,冗长问题
+图算法,找到,重要实体
+知识库,具有,可解释性
+知识,有,明确来源
+知识,有,明确语义
+graphrag,包括,索引
+graphrag,包括,检索
+graphrag,包括,最终生成
+图索引,是,graphrag过程
+graphrag,包括,图索引
+graphrag,包括,图引导检索
+图索引,是,graphrag初始阶段
+图索引,目的,识别或构建图数据库g
+图索引,目的,建立索引
+图数据库g,来源,公开的知识图谱
+图数据库g,来源,图数据
+图数据库g,来源,专有数据源
+索引过程,包括,映射节点和边的属性
+索引过程,包括,建立连接节点之间的指针
+索引过程,包括,组织数据
+组织数据,支持,快速遍历
+组织数据,支持,检索操作
+节点,包含,指针
+节点,组织,数据
+数据,支持,快速遍历
+数据,支持,检索操作
+图引导检索,专注于,提取信息
+图引导检索,从,图数据库
+用户查询,表达,自然语言
+检索阶段,目标,提取元素
+检索阶段,从,知识图谱
+元素,包括,实体
+元素,包括,三元组
+元素,包括,路径
+元素,包括,子图
+信息质量,影响,生成质量
+图增强生成,涉及,基于检索
+生成质量,是,关键的一步
+图增强生成,涉及,基于检索到的图数据综合有意义的输出或响应
+生成器,接收,查询
+生成器,接收,检索到的图元素
+生成器,接收,可选的提示
+生成器,生成,响应
+claude monet,introduced,new techniques
+new techniques,revolutionized,depiction of light and color
+印象派技法,影响,后期艺术运动
+巴勃罗·毕加索,开创,印象派技法
+巴勃罗·毕加索,影响,后期艺术运动
+pablo picasso,开创了,立体主义
+pablo picasso,影响了,后来的艺术运动
+立体主义,改变了,视觉表现方法
+立体主义,出现于,20世纪初
+e d c e n t u r y,引入,新技术
+新技术,影响,光影描绘
+新技术,影响,色彩描绘
+e d c e n t u r y,开创,印象派
+印象派,影响,抽象艺术
+印象派,影响,后期艺术运动
+pablo picasso,开创,新技术
+pablo picasso,影响,后期艺术运动
+cassso,开创,技术
+cassso,影响,表现主义
+cassso,影响,其他创新艺术运动
+毕加索,开创,立体主义
+毕加索的立体主义,出现于,20世纪初
+图形数据库,用于,知识图谱源代码
+neo4j,是,图形数据库
+pyvis,是,图形数据库
+pydantic,用于,数据接口定义检查和管理
+graph maker,是,知识图谱增强生成
+ollama,是,部署llm的运行框架
+langchain,是,部署llm的运行框架
+llama 3,是,开源llm模型
+mistral,是,开源llm模型
+mixtral,是,开源llm模型
+gemma,是,开源llm模型
+deepseek,是,开源llm模型
+phi-4,是,开源llm模型
+zep,是,开源llm模型
+llama 3,属于,llm模型
+mistral,属于,llm模型
+mixtral,属于,llm模型
+gemma,属于,llm模型
+deepseek,属于,llm模型
+phi-4,属于,llm模型
+zephyr,属于,llm模型
+graphrag,开发,微软
+graphrag,托管,github
+llm模型,排行,huggingface
+华中科技大学,研究,多智能体
+多智能体,是,框架
+多智能体,基于,多个llm模型
+多智能体,利用,集体优势
+多智能体,利用,专门知识
+多智能体,扩展,单个llm代理的能力
+多代理llm系统,通过,沟通
+多代理llm系统,通过,协作
+多代理llm系统,通过,共享信息
+多代理llm系统,通过,共享见解
+多代理llm系统,通过,分配任务
+知识,扩展,llm代理
+多代理llm系统,比,单个代理
+多代理llm系统,更有效,解决问题
+多代理llm系统,具有,灵活性
+多代理llm系统,具有,可扩展性
+多智能体,使用,自然语言理解
+自然语言理解,理解,人类语言
+自然语言理解,生成,文本
+多智能体,保持,上下文意识
+上下文意识,记住,输入
+多智能体,支持,多语言
+上下文意识,保持,上下文
+上下文意识,记住,以前的输入
+上下文意识,引用,后续互动
+多语言支持,理解,多种语言文本
+多语言支持,生成,多种语言文本
+多语言支持,促进,翻译任务
+多语言支持,促进,本地化任务
+个性化,定制,响应
+个性化,根据,用户的沟通风格
+个性化,根据,用户的偏好
+个性化,根据,以往互动
+信息检索系统,筛选,相关信息
+信息检索系统,从,大量文本
+information retrieval and summarization,从,大量文本
+information retrieval and summarization,筛选,相关信息
+information retrieval and summarization,进行,简要总结
+tool utilization,利用,搜索引擎
+tool utilization,利用,api
+tool utilization,利用,计算器
+tool utilization,收集,信息
+tool utilization,采取,行动
+推理和逻辑,基于,链式思维
+推理和逻辑,基于,树状思维
+推理和逻辑,进行,逻辑连接
+推理和逻辑,进行,问题解决
+crew ai,是,多智能体框架
+autogen,是,多智能体框架
+华中科技大学,是,研究机构
+crewai,是,多智能体框架
+华中科技大学,研究,知识图谱早期概念
+研究,目的,小显存配置下高效生成
+华中科技大学,安装,neo4j
+neo4j,需要,java 1.8
+用户,下载,3.5.30
+用户,安装,3.5.30
+github,提供,neo4j方便
+我,安装,3.5.30
+我,下载,3.5.30
+3.5.30,位于,github
+我,配置,环境变量
+环境变量,相似于,java环境变量
+我,启动,neo4j.bat
+启动,失败,neo4j.bat
+我,安装,neo4j
+n s o l e,启动,未成功
+用户,需要安装,neo4j
+用户,点击,neo4j老版本
+neo4j老版本,无效,启动
+用户,设置密码,123456
+用户,使用命令行,画图
+用户,调库,python画图
+命令行,换行方式,shift+enter
+用户,参考语法,https://github.com/jiangnanboy/l
+环境变量,新建,系统变量
+变量名,是,neo4j.bat
+变量值,是,e:(neo4)neo4j-community-3.5.3
+系统变量,包含,classpath
+系统变量,包含,java环境变量
+系统变量,包含,jenkins_home
+系统变量,包含,maven_home
+java环境变量,指向,d:\java\jdk
+jenkins_home,指向,d:\java\jdk
+cmd.exe,位于,c:\windows\system32
+driverdata,位于,c:\windows\system32
+wukai,是,person
+wukaiqi4,是,person
+wukaiqi2,是,person
+wukaiqi,是,person
+wuhan,位于,location
+wukaiqi,创建,location:hust
+wukaiqi,创建,location
+华中科技大学,位于,location
+wukai,家乡是,location:hust
+hust,位于,location
+华中科技大学,使用,pyvis
+华中科技大学,生成,知识图谱
+生成知识图谱,参考,https://www.cnblogs.com/shandianchengzi/p/18155374
+生成知识图谱,参考,https://www.aclweb.org/anthology/w18-5713
+生成知识图谱,比,neo4j服务
+查找代码,需要,自己写
+华中科技大学,利用,deepseek
+知识图谱网站,来自,https://arxiv.org/abs/1410.3916
+e e p s e e k,创建,知识图谱网站
+知识图谱网站,来自,github
+知识图谱,应用于,艺术运动
+复杂语言能力,描述,毕加索的立体主义
+新技术,影响,知识图谱构建方式
+复杂语言能力,促进,准确性提升
+知识图谱,支持,单词释义
+任务上下文,影响,阈值
+知识图谱,增强,搜索结果的相关性
+用户查询,输入到,搜索引擎
+复杂语言能力,提升,tool utilization
+知识图谱,促进,共享信息
+用户查询,需要,协作
+复杂语言能力,增强,共享见解
+新技术,触发,涌现
+毕加索的立体主义,突破,阈值
+印象派,启发,准确性提升
+新技术,应用于,搜索引擎
+印象派,启发,方法
+pablo picasso,影响,tool utilization
+印象派,启发,共享见解
+新技术,促进,协作
+毕加索的立体主义,需要,灵活性
+准确性提升,依赖,方法
+阈值,影响,搜索结果的相关性
+涌现,通过,tool utilization
+涌现,通过,协作
+准确性提升,依赖,共享信息
+阈值,影响,灵活性
+方法,促进,协作
+tool utilization,支持,共享信息
+搜索引擎,增强,灵活性
+知识图谱,包含,知识图谱生成约束
+知识图谱,包含,知识图谱早期概念
+知识图谱,包含,自建知识图谱
+知识图谱,包含,图谱
+知识图谱,包含,知识图谱源代码
+知识图谱,包含,知识
+知识图谱,包含,构建知识图谱
+知识图谱发展历程,属于,知识图谱
+知识图谱早期概念,演变为,知识图谱
+自建知识图谱,包含,构建知识图谱
+图谱,是,知识图谱
+知识,构成,知识图谱
+构建知识图谱,产生,知识图谱
+印象派,包含技法,印象派技法
+毕加索的立体主义,属于,立体主义
+毕加索的立体主义,由...创造,毕加索
+巴勃罗·毕加索,即,毕加索
+立体主义,包含流派,毕加索的立体主义
+毕加索,发展,毕加索的立体主义
+准确性提升,导致,准确性
+准确性,通过,准确性提升
+准确性提升,影响,多步算术
+准确性提升,影响,大学考试
+准确性提升,影响,单词释义
+华中科技大学,研究 via 多智能体,小工具和代码
+华中科技大学,研究 via 多智能体,定义
+华中科技大学,研究 via 多智能体,多个llm模型
+华中科技大学,研究 via 多智能体,多语言
+华中科技大学,研究 via 多智能体,使用
+华中科技大学,研究 via 多智能体,框架
+华中科技大学,研究 via 多智能体,集体优势
+华中科技大学,研究 via 多智能体,自然语言理解
+华中科技大学,研究 via 多智能体,上下文意识
+华中科技大学,研究 via 多智能体,专门知识
+华中科技大学,研究 via 多智能体,单个llm代理的能力
+华中科技大学,安装 via neo4j,java 1.8
+华中科技大学,安装 via neo4j,图形数据库
+华中科技大学,定义 via llm,事实不准确
+华中科技大学,定义 via llm,高级ai系统
+华中科技大学,定义 via llm,复杂语言能力
+华中科技大学,定义 via llm,llms
+华中科技大学,定义 via llm,构建知识图谱
+华中科技大学,定义 via llm,概念
+华中科技大学,定义 via llm,用户查询
+华中科技大学,定义 via llm,语义关系
+华中科技大学,定义 via llm,人类语言
+华中科技大学,定义 via llm,上下文能力
+华中科技大学,生成 via 知识图谱,知识图谱技术
+华中科技大学,生成 via 知识图谱,开放知识图谱
+华中科技大学,生成 via 知识图谱,问答系统
+华中科技大学,生成 via 知识图谱,知识图谱构建方式
+华中科技大学,生成 via 知识图谱,输入文本长度
+华中科技大学,生成 via 知识图谱,大模型生成
+华中科技大学,生成 via 知识图谱,三元组
+华中科技大学,生成 via 知识图谱,图形检索增强生成
+华中科技大学,生成 via 知识图谱,旧版rag
+华中科技大学,生成 via 知识图谱,自底向上方式
+华中科技大学,生成 via 知识图谱,发展历程
+华中科技大学,生成 via 知识图谱,深度学习
+华中科技大学,生成 via 知识图谱,冗长问题
+华中科技大学,生成 via 知识图谱,现状
+华中科技大学,生成 via 知识图谱,搜索
+华中科技大学,生成 via 知识图谱,推荐
+华中科技大学,生成 via 知识图谱,传统知识图谱
+华中科技大学,生成 via 知识图谱,语义网络
+华中科技大学,生成 via 知识图谱,查询缺乏上下文
+华中科技大学,生成 via 知识图谱,上下文跨越多文本片段
+华中科技大学,生成 via 知识图谱,节点和边构成
+华中科技大学,生成 via 知识图谱,文本数据抽象
+华中科技大学,生成 via 知识图谱,人工智能的重要组成部分
+华中科技大学,生成 via 知识图谱,文本相互联系
+华中科技大学,使用 via pyvis,图形数据库
+华中科技大学,包含 via rag,提示词
+华中科技大学,包含 via rag,旧有llm问题
+华中科技大学,包含 via rag,传统信息检索系统
+华中科技大学,包含 via rag,相关文本信息
+华中科技大学,包含 via rag,中心
+华中科技大学,包含 via rag,关键部分丢失
+华中科技大学,包含 via rag,检索增强提示
+华中科技大学,indirectly 包含,rag结构
+华中科技大学,包含 via rag,提示词拼接
+华中科技大学,indirectly 包含,rag定义
+华中科技大学,包含 via rag,简单结构
+华中科技大学,包含 via rag,上下文过长
+华中科技大学,利用 via deepseek,开源llm模型
+华中科技大学,利用 via deepseek,llm模型
+华中科技大学,indirectly 包含,llm定义
+华中科技大学,indirectly 包含,特殊术语
+华中科技大学,indirectly 包含,llm agents
+rag,结合 via 传统信息检索系统,数据库
+rag,导致 via 关键部分丢失,文章中间部分
+rag,定义为 via 检索增强提示,检索
+rag,定义为 via 检索增强提示,增强
+rag,定义为 via 检索增强提示,llm
+rag,定义为 via 检索增强提示,生成
+知识图谱,包含 via 知识图谱技术,初期
+知识图谱,利用 via llm,事实不准确
+知识图谱,利用 via llm,高级ai系统
+知识图谱,利用 via llm,复杂语言能力
+知识图谱,利用 via llm,llms
+知识图谱,利用 via llm,构建知识图谱
+知识图谱,利用 via llm,概念
+知识图谱,利用 via llm,用户查询
+知识图谱,利用 via llm,语义关系
+知识图谱,利用 via llm,人类语言
+知识图谱,利用 via llm,上下文能力
+知识图谱,应用于 via 问答系统,准确的答案
+知识图谱,应用于 via 问答系统,基于知识的问答
+知识图谱,用于 via 图形检索增强生成,gag
+知识图谱,用于 via 图形检索增强生成,grag
+知识图谱,利用 via 深度学习,构建知识图谱
+知识图谱,包含 via 传统知识图谱,应用场景
+知识图谱,发展于 via 语义网络,知识图谱发展历程
+开放知识图谱,是 via 知识图谱,知识图谱技术
+开放知识图谱,是 via 知识图谱,llm
+开放知识图谱,是 via 知识图谱,问答系统
+开放知识图谱,是 via 知识图谱,知识图谱构建方式
+开放知识图谱,是 via 知识图谱,输入文本长度
+开放知识图谱,是 via 知识图谱,大模型生成
+开放知识图谱,是 via 知识图谱,三元组
+开放知识图谱,是 via 知识图谱,图形检索增强生成
+开放知识图谱,是 via 知识图谱,旧版rag
+开放知识图谱,是 via 知识图谱,自底向上方式
+开放知识图谱,是 via 知识图谱,发展历程
+开放知识图谱,是 via 知识图谱,深度学习
+开放知识图谱,是 via 知识图谱,冗长问题
+开放知识图谱,是 via 知识图谱,现状
+开放知识图谱,是 via 知识图谱,搜索
+开放知识图谱,是 via 知识图谱,推荐
+开放知识图谱,是 via 知识图谱,传统知识图谱
+开放知识图谱,是 via 知识图谱,语义网络
+开放知识图谱,是 via 知识图谱,查询缺乏上下文
+开放知识图谱,是 via 知识图谱,上下文跨越多文本片段
+开放知识图谱,是 via 知识图谱,节点和边构成
+开放知识图谱,是 via 知识图谱,文本数据抽象
+开放知识图谱,是 via 知识图谱,人工智能的重要组成部分
+开放知识图谱,是 via 知识图谱,文本相互联系
+自建知识图谱,是 via 知识图谱,知识图谱技术
+自建知识图谱,是 via 知识图谱,开放知识图谱
+自建知识图谱,是 via 知识图谱,llm
+自建知识图谱,是 via 知识图谱,问答系统
+自建知识图谱,是 via 知识图谱,知识图谱构建方式
+自建知识图谱,是 via 知识图谱,输入文本长度
+自建知识图谱,是 via 知识图谱,大模型生成
+自建知识图谱,是 via 知识图谱,三元组
+自建知识图谱,是 via 知识图谱,图形检索增强生成
+自建知识图谱,是 via 知识图谱,旧版rag
+自建知识图谱,是 via 知识图谱,自底向上方式
+自建知识图谱,是 via 知识图谱,发展历程
+自建知识图谱,是 via 知识图谱,深度学习
+自建知识图谱,是 via 知识图谱,冗长问题
+自建知识图谱,是 via 知识图谱,现状
+自建知识图谱,是 via 知识图谱,搜索
+自建知识图谱,是 via 知识图谱,推荐
+自建知识图谱,是 via 知识图谱,传统知识图谱
+自建知识图谱,是 via 知识图谱,语义网络
+自建知识图谱,是 via 知识图谱,查询缺乏上下文
+自建知识图谱,是 via 知识图谱,上下文跨越多文本片段
+自建知识图谱,是 via 知识图谱,节点和边构成
+自建知识图谱,是 via 知识图谱,文本数据抽象
+自建知识图谱,是 via 知识图谱,人工智能的重要组成部分
+自建知识图谱,是 via 知识图谱,文本相互联系
+自建知识图谱,包括 via 手动构建知识图谱,知识图谱生成约束
+grag,利用 via 知识图谱,知识图谱技术
+grag,利用 via 知识图谱,开放知识图谱
+grag,indirectly 利用,llm
+grag,利用 via 知识图谱,问答系统
+grag,利用 via 知识图谱,知识图谱构建方式
+grag,利用 via 知识图谱,输入文本长度
+grag,利用 via 知识图谱,大模型生成
+grag,利用 via 知识图谱,三元组
+grag,利用 via 知识图谱,图形检索增强生成
+grag,利用 via 知识图谱,旧版rag
+grag,利用 via 知识图谱,自底向上方式
+grag,利用 via 知识图谱,发展历程
+grag,indirectly 利用,深度学习
+grag,利用 via 知识图谱,冗长问题
+grag,利用 via 知识图谱,现状
+grag,利用 via 知识图谱,搜索
+grag,利用 via 知识图谱,推荐
+grag,利用 via 知识图谱,传统知识图谱
+grag,利用 via 知识图谱,语义网络
+grag,利用 via 知识图谱,查询缺乏上下文
+grag,利用 via 知识图谱,上下文跨越多文本片段
+grag,利用 via 知识图谱,节点和边构成
+grag,利用 via 知识图谱,文本数据抽象
+grag,利用 via 知识图谱,人工智能的重要组成部分
+grag,利用 via 知识图谱,文本相互联系
+多智能体,使用 via 自然语言理解,文本
+多智能体,使用 via 自然语言理解,人类语言
+多智能体,保持 via 上下文意识,后续互动
+多智能体,保持 via 上下文意识,输入
+多智能体,indirectly 保持,上下文
+多智能体,保持 via 上下文意识,以前的输入
+pyvis,生成 via 知识图谱,知识图谱技术
+pyvis,生成 via 知识图谱,开放知识图谱
+pyvis,生成 via 知识图谱,llm
+pyvis,生成 via 知识图谱,问答系统
+pyvis,生成 via 知识图谱,知识图谱构建方式
+pyvis,生成 via 知识图谱,输入文本长度
+pyvis,生成 via 知识图谱,大模型生成
+pyvis,生成 via 知识图谱,三元组
+pyvis,生成 via 知识图谱,图形检索增强生成
+pyvis,生成 via 知识图谱,旧版rag
+pyvis,生成 via 知识图谱,自底向上方式
+pyvis,生成 via 知识图谱,发展历程
+pyvis,生成 via 知识图谱,深度学习
+pyvis,生成 via 知识图谱,冗长问题
+pyvis,生成 via 知识图谱,现状
+pyvis,生成 via 知识图谱,搜索
+pyvis,生成 via 知识图谱,推荐
+pyvis,生成 via 知识图谱,传统知识图谱
+pyvis,生成 via 知识图谱,语义网络
+pyvis,生成 via 知识图谱,查询缺乏上下文
+pyvis,生成 via 知识图谱,上下文跨越多文本片段
+pyvis,生成 via 知识图谱,节点和边构成
+pyvis,生成 via 知识图谱,文本数据抽象
+pyvis,生成 via 知识图谱,人工智能的重要组成部分
+pyvis,生成 via 知识图谱,文本相互联系
+pyvis,是 via 图形数据库,知识图谱源代码
+deepseek,创建 via 知识图谱,知识图谱技术
+deepseek,创建 via 知识图谱,开放知识图谱
+deepseek,创建 via 知识图谱,llm
+deepseek,创建 via 知识图谱,问答系统
+deepseek,创建 via 知识图谱,知识图谱构建方式
+deepseek,创建 via 知识图谱,输入文本长度
+deepseek,创建 via 知识图谱,大模型生成
+deepseek,创建 via 知识图谱,三元组
+deepseek,创建 via 知识图谱,图形检索增强生成
+deepseek,创建 via 知识图谱,旧版rag
+deepseek,创建 via 知识图谱,自底向上方式
+deepseek,创建 via 知识图谱,发展历程
+deepseek,创建 via 知识图谱,深度学习
+deepseek,创建 via 知识图谱,冗长问题
+deepseek,创建 via 知识图谱,现状
+deepseek,创建 via 知识图谱,搜索
+deepseek,创建 via 知识图谱,推荐
+deepseek,创建 via 知识图谱,传统知识图谱
+deepseek,创建 via 知识图谱,语义网络
+deepseek,创建 via 知识图谱,查询缺乏上下文
+deepseek,创建 via 知识图谱,上下文跨越多文本片段
+deepseek,创建 via 知识图谱,节点和边构成
+deepseek,创建 via 知识图谱,文本数据抽象
+deepseek,创建 via 知识图谱,人工智能的重要组成部分
+deepseek,创建 via 知识图谱,文本相互联系
+deepseek,属于 via llm模型,huggingface
+一些杂项167,创建 via 知识图谱,知识图谱技术
+一些杂项167,创建 via 知识图谱,开放知识图谱
+一些杂项167,创建 via 知识图谱,llm
+一些杂项167,创建 via 知识图谱,问答系统
+一些杂项167,创建 via 知识图谱,知识图谱构建方式
+一些杂项167,创建 via 知识图谱,输入文本长度
+一些杂项167,创建 via 知识图谱,大模型生成
+一些杂项167,创建 via 知识图谱,三元组
+一些杂项167,创建 via 知识图谱,图形检索增强生成
+一些杂项167,创建 via 知识图谱,旧版rag
+一些杂项167,创建 via 知识图谱,自底向上方式
+一些杂项167,创建 via 知识图谱,发展历程
+一些杂项167,创建 via 知识图谱,深度学习
+一些杂项167,创建 via 知识图谱,冗长问题
+一些杂项167,创建 via 知识图谱,现状
+一些杂项167,创建 via 知识图谱,搜索
+一些杂项167,创建 via 知识图谱,推荐
+一些杂项167,创建 via 知识图谱,传统知识图谱
+一些杂项167,创建 via 知识图谱,语义网络
+一些杂项167,创建 via 知识图谱,查询缺乏上下文
+一些杂项167,创建 via 知识图谱,上下文跨越多文本片段
+一些杂项167,创建 via 知识图谱,节点和边构成
+一些杂项167,创建 via 知识图谱,文本数据抽象
+一些杂项167,创建 via 知识图谱,人工智能的重要组成部分
+一些杂项167,创建 via 知识图谱,文本相互联系
+一些杂项167,利用 via pyvis,图形数据库
+一些杂项167,利用 via deepseek,开源llm模型
+一些杂项167,利用 via deepseek,llm模型
+llm,输出 via 事实不准确,模型幻觉
+llm,提取 via 概念,多个块
+llm,提取 via 概念,上下文邻近性
+llm,提取 via 概念,多重关系
+llm,回答 via 用户查询,自然语言
+用户,需要 via 提示,指令
+用户,需要 via 提示,响应
+用户,需要 via 提示,查询
+用户,需要 via 提示,动作
+用户,需要 via 提示,上下文
+用户,安装 via 3.5.30,github
+用户,需要安装 via neo4j,java 1.8
+用户,需要安装 via neo4j,图形数据库
+用户,点击 via neo4j老版本,启动
+提示,通过 via 指令,模型性能
+核心,是 via llm代理,偏见风险
+核心,是 via llm代理,错误信息风险
+核心,是 via llm代理,隐私数据泄露
+核心,是 via llm代理,有害内容
+核心,是 via llm代理,偏见
+核心,是 via llm代理,人类情感
+核心,是 via llm代理,毒性风险
+核心,是 via llm代理,错误信息
+核心,是 via llm代理,人类细微情感
+核心,决定使用 via 工具,计算机实用程序
+核心,决定使用 via 工具,生成复杂查询的答案
+核心,决定使用 via 工具,工作流程
+核心,决定使用 via 工具,执行专门任务
+核心,决定使用 via 工具,计算机应用程序
+记忆组件,检索 via 数据,快速遍历
+记忆组件,检索 via 数据,检索操作
+代理,利用 via 可执行的工作流程,代理执行任务的工具
+代理,利用 via 工具,计算机实用程序
+代理,利用 via 工具,生成复杂查询的答案
+代理,利用 via 工具,工作流程
+代理,利用 via 工具,执行专门任务
+代理,利用 via 工具,计算机应用程序
+计划模块,处理 via 复杂问题,错误答案
+规划模块,制定 via 策略,期望结果
+小实体,相互作用 via 大实体,特性
+模型规模,提升 via 准确性,多步算术
+模型规模,提升 via 准确性,大学考试
+模型规模,提升 via 准确性,涌现
+模型规模,提升 via 准确性,单词释义
+准确性,显著提升 via 涌现,演生
+准确性,显著提升 via 涌现,创发
+准确性,显著提升 via 涌现,现象
+准确性,显著提升 via 涌现,呈展
+准确性,显著提升 via 涌现,突现
+准确性提升,称为 via 涌现,演生
+准确性提升,称为 via 涌现,创发
+准确性提升,称为 via 涌现,现象
+准确性提升,称为 via 涌现,呈展
+准确性提升,称为 via 涌现,突现
+大语言模型,给予 via 非参数化知识,外部知识库
+向量化,是 via embedding,需求
+非参数化知识,来自 via 外部知识库,向量数据库
+知识,扩展 via llm代理,偏见风险
+知识,扩展 via llm代理,错误信息风险
+知识,扩展 via llm代理,隐私数据泄露
+知识,扩展 via llm代理,有害内容
+知识,扩展 via llm代理,偏见
+知识,扩展 via llm代理,人类情感
+知识,扩展 via llm代理,毒性风险
+知识,扩展 via llm代理,错误信息
+知识,扩展 via llm代理,人类细微情感
+知识,存储在 via 外部知识库,向量数据库
+传统llm模型,存储 via 知识,llm代理
+传统llm模型,存储 via 知识,外部知识库
+传统llm模型,存储 via 知识,明确来源
+传统llm模型,存储 via 知识,神经网络
+传统llm模型,存储 via 知识,明确语义
+事实不准确,称为 via 模型幻觉,hallucinations
+输出,导致 via 事实不准确,模型幻觉
+patrick lewis,提出 via rag,提示词
+patrick lewis,提出 via rag,旧有llm问题
+patrick lewis,提出 via rag,传统信息检索系统
+patrick lewis,提出 via rag,相关文本信息
+patrick lewis,提出 via rag,中心
+patrick lewis,提出 via rag,问题
+patrick lewis,提出 via rag,关键部分丢失
+patrick lewis,提出 via rag,检索增强提示
+patrick lewis,提出 via rag,rag结构
+patrick lewis,提出 via rag,提示词拼接
+patrick lewis,提出 via rag,rag定义
+patrick lewis,提出 via rag,简单结构
+patrick lewis,提出 via rag,上下文过长
+patrick lewis,提出 via 生成,大语言模型
+patrick lewis,提出 via 生成,检索
+patrick lewis,提出 via 生成,信息检索系统
+patrick lewis,提出 via 生成,检索增强提示
+ethan perez,提出 via rag,提示词
+ethan perez,提出 via rag,旧有llm问题
+ethan perez,提出 via rag,传统信息检索系统
+ethan perez,提出 via rag,相关文本信息
+ethan perez,提出 via rag,中心
+ethan perez,提出 via rag,问题
+ethan perez,提出 via rag,关键部分丢失
+ethan perez,提出 via rag,检索增强提示
+ethan perez,提出 via rag,rag结构
+ethan perez,提出 via rag,提示词拼接
+ethan perez,提出 via rag,rag定义
+ethan perez,提出 via rag,简单结构
+ethan perez,提出 via rag,上下文过长
+ethan perez,提出 via 生成,大语言模型
+ethan perez,提出 via 生成,检索
+ethan perez,提出 via 生成,信息检索系统
+ethan perez,提出 via 生成,检索增强提示
+生成,结合 via 大语言模型,步骤
+生成,结合 via 大语言模型,非参数化知识
+生成,结合 via 大语言模型,问题
+生成,结合 via 大语言模型,答案
+生成,结合 via 大语言模型,文字
+生成,indirectly 结合,语言技能
+生成,包含步骤 via 检索,嵌入模型
+生成,包含步骤 via 检索,用户请求
+生成,包含步骤 via 检索,外部知识库
+生成,包含步骤 via 检索,相似性搜索
+生成,结合 via 信息检索系统,大量文本
+生成,结合 via 信息检索系统,相关信息
+生成,馈送 via 检索增强提示,增强
+生成,馈送 via 检索增强提示,llm
+检索,使用 via 嵌入模型,用户查询
+检索,使用 via 嵌入模型,向量空间
+检索,从 via 外部知识库,向量数据库
+检索,执行 via 相似性搜索,前k个数据对象
+检索增强提示,包含步骤 via 检索,嵌入模型
+检索增强提示,包含步骤 via 检索,用户请求
+检索增强提示,包含步骤 via 检索,外部知识库
+检索增强提示,包含步骤 via 检索,相似性搜索
+检索增强提示,包含步骤 via 增强,提示模板
+检索增强提示,被馈送到 via llm,事实不准确
+检索增强提示,被馈送到 via llm,高级ai系统
+检索增强提示,被馈送到 via llm,复杂语言能力
+检索增强提示,被馈送到 via llm,llms
+检索增强提示,被馈送到 via llm,构建知识图谱
+检索增强提示,被馈送到 via llm,概念
+检索增强提示,被馈送到 via llm,用户查询
+检索增强提示,被馈送到 via llm,语义关系
+检索增强提示,被馈送到 via llm,人类语言
+检索增强提示,被馈送到 via llm,上下文能力
+检索增强提示,包含步骤 via 生成,大语言模型
+检索增强提示,包含步骤 via 生成,信息检索系统
+嵌入模型,将 via 用户查询,自然语言
+嵌入模型,嵌入到 via 向量空间,附加上下文
+向量空间,包含 via 附加上下文,提示模板
+增强,填充 via 提示模板,附加上下文
+增强,填充 via 提示模板,用户查询
+提示模板,包含 via 用户查询,自然语言
+附加上下文,被填充到 via 提示模板,用户查询
+multi query retriever,来自 via github,neo4j方便
+节点,组织 via 数据,快速遍历
+节点,组织 via 数据,检索操作
+节点,代表 via 实体,概念
+节点,代表 via 实体,事件
+节点,代表 via 实体,对象
+节点,代表 via 实体,情景
+实体,可以是 via 概念,多个块
+实体,可以是 via 概念,上下文邻近性
+实体,可以是 via 概念,多重关系
+边,表示 via 关系,w2权重
+边,表示 via 关系,w1权重
+图形检索增强生成,简称 via grag,知识图谱
+图形检索增强生成,简称 via grag,检索关系信息
+图形检索增强生成,简称 via grag,graph retrieval-augmented
+tim berners-lee,发表 via 论文,引用关系
+tim berners-lee,描述 via 语义网络,知识图谱发展历程
+google,应用 via 搜索引擎,搜索结果的相关性
+google,推出 via knowledge,方法
+智能助手,通过 via 知识图谱,知识图谱技术
+智能助手,通过 via 知识图谱,开放知识图谱
+智能助手,通过 via 知识图谱,llm
+智能助手,通过 via 知识图谱,问答系统
+智能助手,通过 via 知识图谱,知识图谱构建方式
+智能助手,通过 via 知识图谱,输入文本长度
+智能助手,通过 via 知识图谱,大模型生成
+智能助手,通过 via 知识图谱,三元组
+智能助手,通过 via 知识图谱,图形检索增强生成
+智能助手,通过 via 知识图谱,旧版rag
+智能助手,通过 via 知识图谱,自底向上方式
+智能助手,通过 via 知识图谱,发展历程
+智能助手,通过 via 知识图谱,深度学习
+智能助手,通过 via 知识图谱,冗长问题
+智能助手,通过 via 知识图谱,现状
+智能助手,通过 via 知识图谱,搜索
+智能助手,通过 via 知识图谱,推荐
+智能助手,通过 via 知识图谱,传统知识图谱
+智能助手,通过 via 知识图谱,语义网络
+智能助手,通过 via 知识图谱,查询缺乏上下文
+智能助手,通过 via 知识图谱,上下文跨越多文本片段
+智能助手,通过 via 知识图谱,节点和边构成
+智能助手,通过 via 知识图谱,文本数据抽象
+智能助手,通过 via 知识图谱,人工智能的重要组成部分
+智能助手,通过 via 知识图谱,文本相互联系
+全球社区,更新 via 通用知识图谱,通用结构化知识
+全球社区,更新 via 通用知识图谱,通用的结构化知识
+wikidata,indirectly 是,知识图谱
+freebase,indirectly 是,知识图谱
+freebase,是 via 知识库,可解释性
+dbpedia,indirectly 是,知识图谱
+yago-knowledge,indirectly 是,知识图谱
+conceptnet,indirectly 是,知识图谱
+关系,是 via 边,权重
+关系,是 via 边,关系名称
+相似的对,连接 via 关系,w2权重
+相似的对,连接 via 关系,边
+相似的对,连接 via 关系,w1权重
+成器,利用 via deepseek,知识图谱
+成器,利用 via deepseek,开源llm模型
+成器,利用 via deepseek,llm模型
+rag方法,忽视 via 关系,w2权重
+rag方法,忽视 via 关系,边
+rag方法,忽视 via 关系,w1权重
+文本,存在 via 关系,w2权重
+文本,存在 via 关系,边
+文本,存在 via 关系,w1权重
+引用网络,包含 via 论文,引用关系
+graphrag,包括 via 图索引,graphrag过程
+graphrag,包括 via 图索引,识别或构建图数据库g
+graphrag,包括 via 图索引,建立索引
+graphrag,包括 via 图索引,graphrag初始阶段
+graphrag,包括 via 检索,嵌入模型
+graphrag,包括 via 检索,用户请求
+graphrag,包括 via 检索,外部知识库
+graphrag,包括 via 检索,相似性搜索
+graphrag,托管 via github,neo4j方便
+graphrag,包括 via 图引导检索,图数据库
+graphrag,包括 via 图引导检索,提取信息
+graphrag,开发 via 微软,satori知识库
+图数据库g,来源 via 图数据,文本数据
+索引过程,包括 via 组织数据,快速遍历
+索引过程,包括 via 组织数据,检索操作
+检索阶段,从 via 知识图谱,知识图谱技术
+检索阶段,从 via 知识图谱,开放知识图谱
+检索阶段,从 via 知识图谱,llm
+检索阶段,从 via 知识图谱,问答系统
+检索阶段,从 via 知识图谱,知识图谱构建方式
+检索阶段,从 via 知识图谱,输入文本长度
+检索阶段,从 via 知识图谱,大模型生成
+检索阶段,从 via 知识图谱,三元组
+检索阶段,从 via 知识图谱,图形检索增强生成
+检索阶段,从 via 知识图谱,旧版rag
+检索阶段,从 via 知识图谱,自底向上方式
+检索阶段,从 via 知识图谱,发展历程
+检索阶段,从 via 知识图谱,深度学习
+检索阶段,从 via 知识图谱,冗长问题
+检索阶段,从 via 知识图谱,现状
+检索阶段,从 via 知识图谱,搜索
+检索阶段,从 via 知识图谱,推荐
+检索阶段,从 via 知识图谱,传统知识图谱
+检索阶段,从 via 知识图谱,语义网络
+检索阶段,从 via 知识图谱,查询缺乏上下文
+检索阶段,从 via 知识图谱,上下文跨越多文本片段
+检索阶段,从 via 知识图谱,节点和边构成
+检索阶段,从 via 知识图谱,文本数据抽象
+检索阶段,从 via 知识图谱,人工智能的重要组成部分
+检索阶段,从 via 知识图谱,文本相互联系
+元素,包括 via 实体,概念
+元素,包括 via 实体,事件
+元素,包括 via 实体,对象
+元素,包括 via 实体,情景
+信息质量,影响 via 生成质量,关键的一步
+claude monet,introduced via new,depiction of light and color
+pablo picasso,开创 via 新技术,光影描绘
+pablo picasso,开创 via 新技术,色彩描绘
+pablo picasso,开创了 via 立体主义,视觉表现方法
+pablo picasso,开创了 via 立体主义,20世纪初
+e d c e n t u r y,开创 via 印象派,抽象艺术
+e d c e n t u r y,开创 via 印象派,后期艺术运动
+e d c e n t u r y,引入 via 新技术,光影描绘
+e d c e n t u r y,引入 via 新技术,色彩描绘
+毕加索,开创 via 立体主义,视觉表现方法
+毕加索,开创 via 立体主义,20世纪初
+neo4j,是 via 图形数据库,知识图谱源代码
+llama 3,属于 via llm模型,huggingface
+mistral,属于 via llm模型,huggingface
+mixtral,属于 via llm模型,huggingface
+gemma,属于 via llm模型,huggingface
+phi-4,属于 via llm模型,huggingface
+zephyr,属于 via llm模型,huggingface
+自然语言理解,生成 via 文本,关系
+tool utilization,利用 via 搜索引擎,搜索结果的相关性
+我,下载 via 3.5.30,github
+我,配置 via 环境变量,java环境变量
+我,配置 via 环境变量,系统变量
+我,安装 via neo4j,java 1.8
+我,安装 via neo4j,图形数据库
+3.5.30,位于 via github,neo4j方便
+环境变量,相似于 via java环境变量,d:\java\jdk
+环境变量,新建 via 系统变量,jenkins_home
+环境变量,新建 via 系统变量,classpath
+环境变量,新建 via 系统变量,maven_home
+neo4j老版本,无效 via 启动,neo4j.bat
+系统变量,包含 via jenkins_home,d:\java\jdk
+系统变量,包含 via java环境变量,d:\java\jdk
+知识图谱网站,来自 via github,neo4j方便
+e e p s e e k,创建 via 知识图谱网站,github
+e e p s e e k,创建 via 知识图谱网站,https://arxiv.org/abs/1410.3916
+盘子上,is type of,盘子
+知识图谱生成约束,is type of,知识图谱
+知识图谱发展历程,is type of,知识图谱
+通用知识图谱,is type of,知识图谱
+知识图谱早期概念,is type of,知识图谱
+生成知识图谱,is type of,知识图谱
+知识图谱,is type of,图谱
+利用深度学习或llm自建知识图谱,is type of,知识图谱
+手动构建知识图谱,is type of,知识图谱
+知识图谱源代码,is type of,知识图谱
+知识图谱,is type of,知识
+构建知识图谱,is type of,知识图谱
+知识图谱增强生成,is type of,知识图谱
+570亿实体的大规模知识图谱,is type of,知识图谱
+知识图谱定义,is type of,知识图谱
+公开的知识图谱,is type of,知识图谱
+知识图谱的创建,is type of,知识图谱
+知识图谱网站,is type of,知识图谱
+用户查询,is type of,查询
+用户查询,is type of,用户
+yago-knowledge,is type of,g
+任务上下文,is type of,上下文
+灵活性和可扩展性,is type of,可扩展性
+索引过程,is type of,过程
+graphrag过程,is type of,过程
+每个工具,is type of,工具
+基于检索,is type of,检索
+基于检索到的图数据综合有意义的输出或响应,is type of,基于检索
+神经网络权重,is type of,神经网络
+神经网络权重,is type of,权重
+w2权重,is type of,权重
+zephyr,is type of,zep
+https://arxiv.org/abs/1410.3916,is type of,g
+偏见风险,is type of,偏见
+冗长问题,is type of,问题
+语义网络,is type of,语义网
+python画图,is type of,画图
+组织数据,is type of,数据
+行动方案,is type of,行动
+科研机构,is type of,机构
+提取元素,is type of,元素
+检索到的图元素,is type of,元素
+gag,is type of,g
+传统rag方法,is type of,rag
+rag方法,is type of,rag
+graphrag,is type of,rag
+rag,is type of,g
+旧版rag,is type of,rag
+grag,is type of,rag
+graphrag过程,is type of,rag
+graphrag初始阶段,is type of,rag
+rag不同,is type of,rag
+模块化方法,is type of,方法
+wukaiqi4,is type of,wukai
+wukaiqi2,is type of,wukai
+wukaiqi,is type of,wukai
+知识图谱生成约束,is type of,图谱
+知识图谱生成约束,is type of,知识
+知识图谱生成约束,is type of,生成
+用户的偏好,is type of,用户
+知识图谱构建方式,is type of,图谱
+知识图谱构建方式,is type of,知识
+传统rag方法,is type of,rag方法
+传统rag方法,is type of,方法
+传统rag方法,is type of,g
+新工具,is type of,工具
+大量训练,is type of,训练
+生成器,is type of,成器
+text-to-kg生成器,is type of,成器
+部署llm的运行框架,is type of,llm
+部署llm的运行框架,is type of,框架
+embedding,is type of,g
+开源embedding模型,is type of,embedding
+共享信息,is type of,信息
+基础知识库,is type of,知识库
+基础知识库,is type of,知识
+核心和工具之上,is type of,核心
+识别或构建图数据库g,is type of,数据
+标注数据集,is type of,数据
+前k个数据对象,is type of,数据
+图数据,is type of,数据
+文本数据抽象,is type of,数据
+数据库,is type of,数据
+数据接口定义检查和管理,is type of,数据
+基于检索到的图数据综合有意义的输出或响应,is type of,数据
+隐私数据泄露,is type of,数据
+图数据库,is type of,数据
+向量数据库,is type of,数据
+图形数据库,is type of,数据
+专有数据源,is type of,数据
+图数据库g,is type of,数据
+文本数据,is type of,数据
+检索增强提示,is type of,提示
+可执行的工作流程,is type of,工作流程
+个性化推荐,is type of,推荐
+推荐系统,is type of,推荐
+知识图谱发展历程,is type of,图谱
+知识图谱发展历程,is type of,发展历程
+知识图谱发展历程,is type of,知识
+通用知识图谱,is type of,图谱
+通用知识图谱,is type of,知识
+用户的沟通风格,is type of,沟通
+用户的沟通风格,is type of,用户
+depiction of light and color,is type of,g
+知识图谱早期概念,is type of,图谱
+知识图谱早期概念,is type of,知识
+知识图谱早期概念,is type of,概念
+自建知识图谱,is type of,图谱
+自建知识图谱,is type of,知识
+外部知识库,is type of,知识库
+开放知识图谱,is type of,图谱
+开放知识图谱,is type of,知识
+非参数化知识,is type of,知识
+非参数化知识,is type of,参数化知识
+构建方法,is type of,方法
+生成知识图谱,is type of,图谱
+生成知识图谱,is type of,知识
+生成知识图谱,is type of,生成
+多语言支持,is type of,多语言
+生成复杂查询的答案,is type of,查询
+生成复杂查询的答案,is type of,生成
+生成复杂查询的答案,is type of,答案
+利用深度学习或llm自建知识图谱,is type of,图谱
+知识图谱技术,is type of,图谱
+手动构建知识图谱,is type of,图谱
+知识图谱源代码,is type of,图谱
+构建知识图谱,is type of,图谱
+知识图谱增强生成,is type of,图谱
+570亿实体的大规模知识图谱,is type of,图谱
+知识图谱定义,is type of,图谱
+公开的知识图谱,is type of,图谱
+传统知识图谱,is type of,图谱
+知识图谱的创建,is type of,图谱
+知识图谱网站,is type of,图谱
+确定性输出,is type of,输出
+可选的提示,is type of,提示
+识别或构建图数据库g,is type of,图数据
+识别或构建图数据库g,is type of,g
+识别或构建图数据库g,is type of,数据库
+识别或构建图数据库g,is type of,图数据库
+识别或构建图数据库g,is type of,图数据库g
+结构化表示实体及其关系,is type of,关系
+结构化表示实体及其关系,is type of,实体
+多智能体框架,is type of,框架
+多智能体框架,is type of,多智能体
+图引导检索,is type of,检索
+图索引,is type of,索引
+利用深度学习或llm自建知识图谱,is type of,llm
+利用深度学习或llm自建知识图谱,is type of,知识
+利用深度学习或llm自建知识图谱,is type of,深度学习
+更多食物,is type of,食物
+较高温度,is type of,温度
+搜索结果的相关性,is type of,搜索
+相似性搜索,is type of,搜索
+搜索引擎,is type of,搜索
+各种关系,is type of,关系
+准确的答案,is type of,答案
+rag方法,is type of,方法
+rag方法,is type of,g
+准确性提升,is type of,准确性
+更小步骤,is type of,步骤
+确保代理行为一致,is type of,代理
+用户偏好,is type of,用户
+单个llm代理的能力,is type of,llm
+多个llm模型,is type of,llm
+llm定义,is type of,llm
+llm回答,is type of,llm
+开源llm模型,is type of,llm
+llm相关定义与使用,is type of,llm
+单独使用llm,is type of,llm
+llm模型,is type of,llm
+llm代理,is type of,llm
+传统llm模型,is type of,llm
+多代理llm系统,is type of,llm
+引导llm代理,is type of,llm
+旧有llm问题,is type of,llm
+信息质量,is type of,信息
+图形检索增强生成,is type of,增强
+图形检索增强生成,is type of,检索
+图形检索增强生成,is type of,生成
+kggen,is type of,g
+堆栈增强网络,is type of,增强
+知识图谱增强生成,is type of,增强
+图增强生成,is type of,增强
+大模型处理的最小单位,is type of,大模型
+大模型生成,is type of,大模型
+llm相关定义与使用,is type of,使用
+单独使用llm,is type of,使用
+推理和逻辑,is type of,推理
+推理和逻辑,is type of,逻辑
+解决问题,is type of,问题
+一条边,is type of,边
+location:hust,is type of,hust
+location:hust,is type of,location
+e:(neo4)neo4j-community-3.5.3,is type of,neo4j
+neo4j老版本,is type of,neo4j
+https://www.cainiaoya.com/neo4j/ne,is type of,neo4j
+neo4j服务,is type of,neo4j
+neo4j.bat,is type of,neo4j
+neo4j方便,is type of,neo4j
+生成质量,is type of,生成
+单个llm代理的能力,is type of,llm代理
+单个llm代理的能力,is type of,代理
+知识库,is type of,知识
+satori知识库,is type of,知识库
+知识图谱技术,is type of,知识
+知识图谱技术,is type of,技术
+检索效果,is type of,检索
+检索关系信息,is type of,检索
+信息检索系统,is type of,检索
+基于检索到的图数据综合有意义的输出或响应,is type of,检索
+检索到的图元素,is type of,检索
+检索阶段,is type of,检索
+检索操作,is type of,检索
+传统信息检索系统,is type of,检索
+knowledge vault,is type of,g
+knowledge vault,related to,knowledge graph
+问题解决,is type of,问题
+langchain,is type of,g
+研究机构,is type of,研究
+引用关系,is type of,关系
+手动构建知识图谱,is type of,知识
+手动构建知识图谱,is type of,构建知识图谱
+输入文本长度,is type of,输入
+以前的输入,is type of,输入
+结构化关系知识,is type of,知识
+结构化关系知识,is type of,关系
+知识图谱源代码,is type of,知识
+计算机实用程序,is type of,计算机
+节点和边构成,is type of,节点
+建立连接节点之间的指针,is type of,节点
+映射节点和边的属性,is type of,节点
+现实中的文本,is type of,文本
+graph retrieval-augmented,related to,graph maker
+self-constructed graph data,relates to,graph retrieval-augmented
+graph retrieval-augmented,is type of,g
+knowledge graph,relates to,graph retrieval-augmented
+self-constructed graph data,relates to,graph maker
+graph maker,is type of,g
+knowledge graph,relates to,graph maker
+llm agents,is type of,g
+构建知识图谱,is type of,知识
+知识图谱增强生成,is type of,知识
+570亿实体的大规模知识图谱,is type of,知识
+satori知识库,is type of,知识
+专门知识,is type of,知识
+基于知识的问答,is type of,知识
+通用的结构化知识,is type of,知识
+知识图谱定义,is type of,知识
+公开的知识图谱,is type of,知识
+传统知识图谱,is type of,知识
+知识更新困难,is type of,知识
+参数化知识,is type of,知识
+知识图谱的创建,is type of,知识
+知识图谱网站,is type of,知识
+通用结构化知识,is type of,知识
+自动知识抽取,is type of,知识
+wukaiqi4,is type of,wukaiqi
+提示模板,is type of,提示
+计算粒度,is type of,算粒度
+提示词拼接,is type of,提示
+提示词拼接,is type of,提示词
+information retrieval and summarization,is type of,form
+应用场景不清楚,is type of,应用场景
+前k个数据对象,is type of,对象
+上下文邻近性,is type of,邻近性
+生成内容风格,is type of,生成
+生成内容风格,is type of,内容风格
+生成内容风格,is type of,生成内容
+提取信息,is type of,信息
+基于检索到的图数据综合有意义的输出或响应,is type of,图数据
+图数据库,is type of,图数据
+用户请求,is type of,用户
+多个llm模型,is type of,llm模型
+查询缺乏上下文,is type of,查询
+对即时查询做出反应,is type of,查询
+反应即时查询,is type of,查询
+建立索引,is type of,索引
+不同方法,is type of,方法
+视觉表现方法,is type of,方法
+提示词,is type of,提示
+文本数据抽象,is type of,文本
+文本数据抽象,is type of,文本数据
+毕加索的立体主义,is type of,毕加索
+巴勃罗·毕加索,is type of,毕加索
+计算机应用程序,is type of,计算机
+graphrag,is type of,g
+graphrag过程,is type of,graphrag
+graphrag初始阶段,is type of,graphrag
+self-constructed graph data,is type of,g
+self-constructed graph data,related to,knowledge graph
+输入文本长度,is type of,文本
+文本语料库,is type of,文本
+个性化推荐,is type of,个性化
+复杂问题,is type of,问题
+温度趋近于0,is type of,温度
+较低温度,is type of,温度
+温度高,is type of,温度
+关系名称,is type of,关系
+灵活性和可扩展性,is type of,灵活性
+知识图谱增强生成,is type of,生成
+chain-of-thought,is type of,g
+rag结构,is type of,g
+retrieve grade,is type of,g
+旧版rag,is type of,g
+rag定义,is type of,g
+stack-augmented networks,is type of,g
+text-to-kg生成器,is type of,g
+autogen,is type of,g
+google,is type of,g
+https://www.cnblogs.com/shandianchengzi/p/18155374,is type of,g
+knowledge graph,is type of,g
+https://www.aclweb.org/anthology/w18-5713,is type of,g
+https://github.com/jiangnanboy/l,is type of,g
+开源embedding模型,is type of,g
+grag,is type of,g
+gemma,is type of,g
+github,is type of,g
+huggingface,is type of,g
+graphrag过程,is type of,g
+graphrag初始阶段,is type of,g
+图数据库g,is type of,g
+rag不同,is type of,g
+检索关系信息,is type of,信息
+检索关系信息,is type of,关系
+570亿实体的大规模知识图谱,is type of,570
+图增强生成,is type of,生成
+建立连接节点之间的指针,is type of,指针
+人类细微情感,is type of,人类
+生成策略,is type of,生成
+生成器,is type of,生成
+小显存配置下高效生成,is type of,生成
+text-to-kg生成器,is type of,生成
+大模型生成,is type of,生成
+最终生成,is type of,生成
+生成内容,is type of,生成
+570亿实体的大规模知识图谱,is type of,实体
+llm定义,is type of,定义
+llm相关定义与使用,is type of,定义
+rag定义,is type of,定义
+知识图谱定义,is type of,定义
+数据接口定义检查和管理,is type of,定义
+重要实体,is type of,实体
+概念对,is type of,概念
+错误信息风险,is type of,信息
+信息检索系统,is type of,信息
+相关信息,is type of,信息
+相关文本信息,is type of,信息
+上下文信息,is type of,信息
+错误信息,is type of,信息
+传统信息检索系统,is type of,信息
+个性化响应,is type of,个性化
+模型幻觉,is type of,幻觉
+上下文能力,is type of,上下文
+wukaiqi2,is type of,wukaiqi
+错误信息风险,is type of,错误信息
+传统信息检索系统,is type of,信息检索系统
+索引过程,is type of,索引
+memory networks,related to,stack-augmented networks
+自然语言理解,is type of,自然语言
+文本相互联系,is type of,文本
+小工具和代码,is type of,工具
+用户意图,is type of,用户
+用户行为,is type of,用户
+核心和工具之上,is type of,工具
+开源llm模型,is type of,llm模型
+生成策略,is type of,策略
+text-to-kg生成器,is type of,生成器
+语义关系,is type of,关系
+多重关系,is type of,关系
+相关论文,is type of,论文
+毕加索的立体主义,is type of,立体主义
+节点和边构成,is type of,边
+大实体,is type of,实体
+多种语言文本,is type of,文本
+相关文本信息,is type of,文本
+上下文跨越多文本片段,is type of,文本
+文本数据,is type of,文本
+大量文本,is type of,文本
+研究机构,is type of,机构
+指令微调,is type of,指令
+指令微调,is type of,微调
+图数据库,is type of,数据库
+向量数据库,is type of,数据库
+图形数据库,is type of,数据库
+图数据库g,is type of,数据库
+apis,is type of,api
+现有工具,is type of,工具
+代理执行任务的工具,is type of,工具
+基于检索到的图数据综合有意义的输出或响应,is type of,响应
+基于检索到的图数据综合有意义的输出或响应,is type of,输出
+查询缺乏上下文,is type of,上下文
+小实体,is type of,实体
+印象派技法,is type of,印象派
+逻辑连接,is type of,逻辑
+错误答案,is type of,答案
+搜索引擎,is type of,索引
+传统llm模型,is type of,llm模型
+上下文过长,is type of,上下文
+上下文邻近性,is type of,上下文
+上下文信息,is type of,上下文
+附加上下文,is type of,上下文
+上下文跨越多文本片段,is type of,上下文
+w1权重,is type of,权重
+llm代理,is type of,代理
+引导llm代理,is type of,llm代理
+图数据库g,is type of,图数据库
+映射节点和边的属性,is type of,边
+用户交互,is type of,用户
+用户兴趣,is type of,用户
+新技术,is type of,技术
+旧有llm问题,is type of,问题
+个性化响应,is type of,响应
+单个代理,is type of,代理
+人类情感,is type of,人类
+人类语言,is type of,人类
+多代理llm系统,is type of,代理
+代理执行任务的工具,is type of,代理
+引导llm代理,is type of,代理
+输出更多样化,is type of,输出
+https://github.com/jiangnanboy/l,is type of,github
